@@ -1,0 +1,926 @@
+[
+  {
+    "id": 1,
+    "titulo": "Albañilería Básica para Mujeres",
+    "estado": "finalizado"
+  },
+  {
+    "id": 2,
+    "titulo": "Ayudante de Panadería",
+    "estado": "finalizado"
+  },
+  {
+    "id": 3,
+    "titulo": "Peluquería y Barbería Básica",
+    "estado": "finalizado"
+  },
+  {
+    "id": 4,
+    "titulo": "Corte y confección de disfraces para etapa escolar",
+    "estado": "en_curso"
+  },
+  {
+    "id": 5,
+    "titulo": "Indumentaria para Mascotas",
+    "estado": "finalizado"
+  },
+  {
+    "id": 6,
+    "titulo": "Indumentaria Canina",
+    "estado": "en_curso"
+  },
+  {
+    "id": 7,
+    "titulo": "Taller de Flores Textil",
+    "descripcion_breve": "Aprende a crear flores textiles engomadas para ramos, tocados, apliques decorativos y más.",
+    "descripcion_completa": "Este taller enseña a transformar tela común en flores textiles engomadas resistentes y delicadas. Se abordará el proceso de engomado, corte, modelado y armado de flores para diferentes usos creativos y decorativos. Está destinado a jóvenes y adultos, con o sin experiencia, que quieran desarrollar una actividad artesanal con fines personales, ornamentales o comerciales.",
+    "actividades": "Engomar diferentes tipos de tela, cortar pétalos y hojas con moldes, modelar con herramientas simples, armar flores individuales y composiciones como ramos, tocados, apliques y accesorios textiles. Proyecto final: pieza terminada realizada por cada participante.",
+    "duracion_total": "2 meses",
+    "fecha_inicio": "2025-10-01",
+    "fecha_fin": "2025-11-30",
+    "frecuencia_semanal": 3,
+    "duracion_clase_horas": [3],
+    "dias_horarios": [
+      "Lunes de 15:00 a 18:00",
+      "Martes de 15:00 a 18:00",
+      "Miércoles de 15:00 a 18:00"
+    ],
+    "localidades": ["San Salvador de Jujuy"],
+    "direcciones": ["San Salvador de Jujuy"],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Tela de algodón (ej. lienzo)",
+        "Tijera",
+        "Regla",
+        "Cuaderno",
+        "Lapicera",
+        "Silicona en barra",
+        "Pistolita de silicona"
+      ],
+      "entrega_curso": []
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSexVnHigwm36jOuuZQiPh6tcjicTmbWhQ5ytQlBRj9ADc9PLw/viewform?usp=dialog",
+    "imagen": "assets/img/cursos2025/flores_textil_2025.webp",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2025-09-05T06:00",
+    "inscripcion_fin": "2025-09-05T12:00",
+    "cupos": 50
+  },
+  {
+    "id": 8,
+    "titulo": "Sublimación Artesanal",
+    "estado": "en_curso"
+  },
+  {
+    "id": 9,
+    "titulo": "Tejido Artesanal: Dos Agujas y Crochet",
+    "estado": "finalizado"
+  },
+  {
+    "id": 10,
+    "titulo": "Marroquinería Funcional para Mascotas",
+    "estado": "finalizado"
+  },
+  {
+    "id": 11,
+    "titulo": "Arreglo y mantenimiento de celulares - Nivel básico",
+    "descripcion_breve": "Aprende a reparar celulares Android multimarca, desde diagnóstico hasta cambio de módulos, pines y baterías.",
+    "descripcion_completa": "Curso orientado a quienes deseen iniciarse en la reparación de celulares Android multimarca. Incluye diagnóstico de fallas, micro soldadura, mediciones con multímetro, cambio de módulos, pines y baterías, uso y manipulación de herramientas, diferencias en calidad de repuestos, y nociones de marketing y administración del negocio. Se brindan bases de microelectrónica y funcionamiento de componentes en la placa.",
+    "actividades": "Prácticas de reparación aplicando lo aprendido en clase, trabajos prácticos corregidos en clase siguiente, evaluaciones para afianzar conocimientos. Los alumnos que aprueben podrán pasar al siguiente nivel.",
+    "duracion_total": "1 mes",
+    "fecha_inicio": "2025-10-03",
+    "fecha_fin": "2025-10-24",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [3],
+    "dias_horarios": ["Viernes de 19:00 a 22:00"],
+    "localidades": ["San Salvador de Jujuy"],
+    "direcciones": ["San Salvador de Jujuy"],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": true,
+      "secundaria_completa": true,
+      "otros": ["Sin conocimientos previos en electrónica"]
+    },
+    "materiales": {
+      "aporta_estudiante": ["Celulares a reparar", "Lapicera", "Cuadernillo"],
+      "entrega_curso": [
+        "Cartilla con el desarrollo de cada clase en formato pdf"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSephjfTnrHlkE-EVHYu5_9_oMd-JAgYNcIiPp5842FaDiqtfA/viewform?usp=dialog",
+    "imagen": "assets/img/cursos2025/reparacion_celulares_2025.webp",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2025-09-30T06:00",
+    "inscripcion_fin": "2025-09-30T17:30",
+    "cupos": 14
+  },
+  {
+    "id": 12,
+    "titulo": "Albañilería para Mujeres – Prácticas en Obra",
+    "estado": "finalizado"
+  },
+  {
+    "id": 13,
+    "titulo": "Panadería Artesanal",
+    "estado": "finalizado"
+  },
+  {
+    "id": 14,
+    "titulo": "Cocina Regional",
+    "estado": "finalizado"
+  },
+  {
+    "id": 15,
+    "titulo": "Ayudante de Cocina con Orientación en Hotelería",
+    "estado": "en_curso"
+  },
+  {
+    "id": 16,
+    "titulo": "Barbería",
+    "estado": "finalizado"
+  },
+  {
+    "id": 17,
+    "titulo": "Soldadura",
+    "descripcion_breve": "En este curso aprenderás el uso correcto de herramientas y materiales básicos de soldadura aplicados a herrería.",
+    "descripcion_completa": "La Soldadura ofrece múltiples beneficios para los participantes: desarrollo de habilidades manuales y creativas, mejora de la autoestima y la confianza, fomentando la innovación y el diseño utilizando materiales reciclables. Se aprenderá el uso de herramientas, respetando las normas de seguridad, así como los diferentes materiales necesarios para la creación de parrillas, braseros, porta maceteros, asadores, discos, entre otros. El curso está destinado a personas mayores de edad, con el fin de aprender y ejercer lo aprendido para una salida laboral independiente.",
+    "actividades": "Se realizarán trabajos prácticos como parrillas, braseros, porta maceteros, asadores, discos y más.",
+    "duracion_total": "2 meses",
+    "fecha_inicio": "2025-09-17",
+    "fecha_fin": "2025-11-15",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [3],
+    "dias_horarios": ["Miércoles de 14:00 a 17:00", "Sábados de 09:00 a 12:00"],
+    "localidades": ["San Salvador de Jujuy"],
+    "direcciones": ["San Salvador de Jujuy"],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": ["Fotocopia de DNI", "Sin conocimiento previo"]
+    },
+    "materiales": {
+      "aporta_estudiante": ["Se solicitarán a medida que avance el curso"],
+      "entrega_curso": []
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfKuX5eZ-G4iPi8i4OJJMioa5dTFw-1E0-QIdvGmyyBQgGtRg/viewform?usp=dialog",
+    "imagen": "assets/img/cursos2025/soldadura_2025.webp",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2025-09-05T06:00",
+    "inscripcion_fin": "2025-09-05T12:00",
+    "cupos": 50
+  },
+  {
+    "id": 18,
+    "titulo": "Inglés Básico para Atención al Cliente",
+    "descripcion_breve": "Un curso práctico e ideal que abre las puertas de la comunicación en el mundo laboral.",
+    "descripcion_completa": "El curso de Inglés para atención al público tiene por objetivo desarrollar competencias comunicativas básicas en lengua inglesa aplicadas a situaciones reales de atención al cliente en diferentes ámbitos laborales. La propuesta ofrece aprendizaje de vocabulario específico, expresiones de cortesía y prácticas de simulación para mejorar la calidad del servicio en entornos donde la interacción con clientes de habla inglesa es frecuente. Está destinado a personas que se desempeñan o desean desempeñarse en el área de servicio y atención al cliente. Los objetivos incluyen: brindar herramientas comunicativas para atender clientes en situaciones habituales de trabajo, desarrollar vocabulario específico de servicio al cliente, practicar estructuras básicas para saludar, ofrecer ayuda, resolver consultas, manejar quejas y cerrar interacciones de manera cordial, y generar seguridad y fluidez en interacciones breves y prácticas.",
+    "actividades": "Juegos de roles en pareja y grupo, elaboración de glosario personal de frases útiles, simulación de reclamos y soluciones, grabaciones cortas de diálogos, clases interactivas con prácticas orales intensivas. Evaluación formativa mediante participación en clase y final con simulación real de atención al cliente (oral).",
+    "duracion_total": "3 meses",
+    "fecha_inicio": "2025-09-15",
+    "fecha_fin": "2025-12-17",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [3],
+    "dias_horarios": ["Lunes de 14:00 a 17:00", "Miércoles de 14:00 a 17:00"],
+    "localidades": ["Perico"],
+    "direcciones": ["Oficina de Empleo de la Municipalidad de Perico"],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": true,
+      "secundaria_completa": true,
+      "otros": ["Fotocopia de DNI", "Sin conocimiento previo en inglés"]
+    },
+    "materiales": {
+      "aporta_estudiante": ["Cuaderno", "Lapicera"],
+      "entrega_curso": [
+        "Cartilla de Inglés Básico para Atención al Cliente en PDF"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdGgHePKr8d0HVjV2Ryl1VhcMaMoVu8yU7qyi2cMkHiALX8IA/viewform?usp=dialog",
+    "imagen": "assets/img/cursos2025/ingles_basico_cliente_2025.webp",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2025-09-05T06:00",
+    "inscripcion_fin": "2025-09-05T12:00",
+    "cupos": 50
+  },
+  {
+    "id": 19,
+    "titulo": "Oratoria",
+    "descripcion_breve": "Un programa integral orientado al desarrollo de la inteligencia emocional y habilidades blandas esenciales para la empleabilidad y el emprendedurismo.",
+    "descripcion_completa": "Este curso propone un recorrido formativo teórico–práctico que combina aportes de la Inteligencia Emocional con el fortalecimiento de habilidades blandas fundamentales en los contextos laborales y sociales actuales. A través de una metodología participativa y experiencial, los participantes trabajarán en la gestión de emociones, comunicación efectiva, resiliencia, empatía, liderazgo y pensamiento crítico, con el objetivo de mejorar su desempeño en la búsqueda de empleo, entrevistas, liderazgo de equipos y proyectos emprendedores. Destinado a personas mayores de 18 años interesadas en optimizar su desarrollo personal y profesional, independientemente de su formación previa.",
+    "actividades": "Exposiciones dialogadas, dinámicas grupales, estudios de caso, role-playing de entrevistas y negociaciones, elaboración de CV y carta de presentación, diseño de un elevator pitch personal o emprendedor, construcción de un plan de desarrollo personal y profesional.",
+    "duracion_total": "2 meses",
+    "fecha_inicio": "2025-09-15",
+    "fecha_fin": "2025-11-12",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [2],
+    "dias_horarios": ["Lunes de 16:00 a 18:00", "Miércoles de 16:00 a 18:00"],
+    "localidades": ["San Salvador de Jujuy"],
+    "direcciones": ["San Salvador de Jujuy"],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": ["Fotocopia de DNI", "No se requieren estudios previos"]
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno o carpeta para apuntes",
+        "Dispositivo con acceso a internet"
+      ],
+      "entrega_curso": [
+        "Manual del participante (PDF)",
+        "Plantillas de CV y carta de presentación (PDF)",
+        "Materiales para ejercicios de role-playing (PDF)",
+        "Recursos digitales complementarios (PDF)"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdMc8zcgjnMFtqJaLlZl1uqyOJlGoZ4mTswZAMRNj3c5Iy22g/viewform?usp=dialog",
+    "imagen": "assets/img/cursos2025/oratoria_2025.webp",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2025-09-05T06:00",
+    "inscripcion_fin": "2025-09-05T12:00",
+    "cupos": 50
+  },
+  {
+    "id": 20,
+    "titulo": "Construcción en Seco",
+    "descripcion_breve": "Capacitación en tabiques y cielorrasos con placas de yeso cartón: construcción más rápida, limpia y eficiente.",
+    "descripcion_completa": "Construcción en seco se refiere a los materiales y sistemas utilizados para construir estructuras sin mezclas húmedas como cemento o mortero, sino mediante elementos prefabricados que se ensamblan mecánicamente. Los componentes principales incluyen perfiles de acero galvanizado y placa de yeso. Este método es más rápido, limpio y eficiente en costos y consumo energético que la construcción tradicional. Durante el curso se enseñará a manejar herramientas de trabajo, conocer el uso correcto de materiales, aplicar normas de seguridad, y realizar prácticas de construcción de tabiques y cielorrasos. Se estudiarán las normas de seguridad, propiedades de materiales y su aplicación específica, complementado con ejercicios prácticos de armado de paredes con y sin puertas, y cielorrasos de distintas características.",
+    "actividades": "Clases teóricas sobre normas de seguridad y propiedades de materiales; prácticas de construcción de paredes divisorias y cielorrasos con placas de yeso cartón; uso correcto de herramientas y técnicas de montaje.",
+    "duracion_total": "2 meses",
+    "fecha_inicio": "2025-09-16",
+    "fecha_fin": "2025-11-13",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [3],
+    "dias_horarios": ["Martes de 18:00 a 21:00", "Jueves de 18:00 a 21:00"],
+    "localidades": ["San Salvador de Jujuy"],
+    "direcciones": ["San Martin 260 – San Salvador de Jujuy"],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": ["Fotocopia de DNI", "Sin conocimiento previo"]
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Trincheta de metal",
+        "Cinta métrica",
+        "Punta Philips PH2 larga (60mm)",
+        "Pinza perra",
+        "Nivel de mano",
+        "Taladro (opcional)"
+      ],
+      "entrega_curso": []
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScONfuvkXhIoRUvZuavzskjW-OR6Y7sdfx9ENmdHzgCsZIvuA/viewform?usp=dialog",
+    "imagen": "assets/img/cursos2025/construccion_seco_2025.webp",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2025-09-05T06:00",
+    "inscripcion_fin": "2025-09-05T12:00",
+    "cupos": 50
+  },
+  {
+    "id": 21,
+    "titulo": "Polarizado de Vidrio Automotor",
+    "descripcion_breve": "Capacitación para desarrollar técnicas de corte, moldeado e instalación de láminas polarizadas en vehículos.",
+    "descripcion_completa": "Curso destinado al público en general, con o sin experiencia previa, orientado a la rápida salida laboral. Se reconocen herramientas adecuadas y se abordan técnicas y tips en instancias teóricas que luego se llevan a la práctica, resolviendo dudas para asegurar una formación sólida que habilite la inserción laboral o el emprendimiento propio.",
+    "actividades": "Teoría (técnicas/tips y herramientas) + prácticas en vehículos aplicando corte, moldeado e instalación; resolución de dudas y trabajos supervisados.",
+    "duracion_total": "1 mes y medio",
+    "fecha_inicio": "2025-09-19",
+    "fecha_fin": "2025-11-30",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [3],
+    "dias_horarios": ["Viernes de 16:00 a 19:00", "Sábados de 09:00 a 12:00"],
+    "localidades": ["San Salvador de Jujuy"],
+    "direcciones": [
+      "Clase teórica: San Martín 260 – San Salvador de Jujuy",
+      "Clase práctica: Ramírez de Velazco 359 – San Salvador de Jujuy"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": ["Fotocopia de DNI", "Con o sin experiencia en polarizados"]
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Papel/servilleta (rollo)",
+        "Pulverizador",
+        "Cinta métrica",
+        "Cutter",
+        "Franela naranja (preferentemente)",
+        "Tarjeta tipo SUBE (en desuso)",
+        "Talco común",
+        "Shampoo (para preparar solución jabonosa)",
+        "Guante de hilo"
+      ],
+      "entrega_curso": ["Cartilla de Polarizado de Vidrio Automotor (PDF)"]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScpvyP8strNE4rtipAU1rr_PlADePVyoAxCcIyqaVaWAQR63g/viewform?usp=dialog",
+    "imagen": "assets/img/cursos2025/polarizado_automotor_2025.webp",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2025-09-05T06:00",
+    "inscripcion_fin": "2025-09-05T12:00",
+    "cupos": 50
+  },
+  {
+    "id": 22,
+    "titulo": "Soldadura Artística (Parte II)",
+    "descripcion_breve": "Combinación de técnicas de soldadura por arco eléctrico con carpintería básica y nuevos materiales como la madera.",
+    "descripcion_completa": "Este curso profundiza las técnicas aprendidas en la Parte I de Soldadura Artística, incorporando la combinación con carpintería básica. Se abordarán temas de seguridad e higiene en el taller, perfeccionamiento en técnicas de soldadura, fabricación de herramientas manuales, ejecución de puntos de soldadura y selección de puntos de fusión de distintos tipos de hierro. Además, se trabajará en el diseño, terminaciones y acabados aplicando tanto soldadura como carpintería. Destinado a personas mayores de 18 años con conocimientos previos en soldadura que deseen ampliar su oficio.",
+    "actividades": "Diseño y ejecución de planos a escala, selección de materiales (hierro y madera), realización de carpetas técnicas con planos y guías, construcción de trabajos finales en medidas reales, cálculo de costos de mano de obra.",
+    "duracion_total": "2 meses",
+    "fecha_inicio": "2025-09-17",
+    "fecha_fin": "2025-11-14",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [2],
+    "dias_horarios": ["Miércoles de 09:00 a 11:00", "Viernes de 09:00 a 11:00"],
+    "localidades": ["Abra Pampa"],
+    "direcciones": ["Abra Pampa y zonas aledañas"],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": [
+        "Conocimiento previo en soldadura",
+        "Disponibilidad horaria para prácticas"
+      ]
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Carpetas",
+        "Reglas",
+        "Lápiz",
+        "Lapicera",
+        "Elementos de protección personal"
+      ],
+      "entrega_curso": [
+        "Material de lectura Soldadura Artística Parte II (PDF)"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeMM9ARKxAvKdHIChoBT3Toc1DGYTeLwC72MejuvIvRlNW9kA/viewform?usp=dialog",
+    "imagen": "assets/img/cursos2025/soldadura_artistica_parte2_2025.webp",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2025-09-05T06:00",
+    "inscripcion_fin": "2025-09-05T12:00",
+    "cupos": 50
+  },
+  {
+    "id": 23,
+    "titulo": "Barista y Arte en Latte",
+    "estado": "en_curso"
+  },
+  {
+    "id": 24,
+    "titulo": "Informática Básica",
+    "descripcion_breve": "Curso para personas sin experiencia en computadora e internet, con prácticas para usar herramientas digitales y mejorar la productividad.",
+    "descripcion_completa": "Aprenderás a usar Windows, navegar con Google Chrome y trabajar con Google Drive (Docs, Forms, Sheets y Presentaciones). También se verán las herramientas de Office (Word, Excel y PowerPoint). Al finalizar, podrás manejar conceptos fundamentales de computación, buscar información de forma eficiente y crear/gestionar documentos en la nube.",
+    "actividades": "Clases teórico-prácticas con bibliografía, videos y ejemplos; trabajo práctico por unidad; trabajo integrador final.",
+    "duracion_total": "2 meses",
+    "fecha_inicio": "2025-09-15",
+    "fecha_fin": "2025-11-12",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [2],
+    "dias_horarios": ["Lunes de 16:00 a 18:00", "Miércoles de 16:00 a 18:00"],
+    "localidades": ["San Salvador de Jujuy"],
+    "direcciones": ["San Salvador de Jujuy"],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": true,
+      "secundaria_completa": true,
+      "otros": ["Presentar DNI"]
+    },
+    "materiales": {
+      "aporta_estudiante": ["Carpeta", "Lapicera"],
+      "entrega_curso": ["Cartilla de Informática Básica (PDF)"]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdvxm8hnR2bclC_MW-d-8KIvkuyQeePGNOHmdb4OFaH2Lj5XQ/viewform?usp=dialog",
+    "imagen": "assets/img/cursos2025/informatica_basica_2025.webp",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2025-09-05T06:00",
+    "inscripcion_fin": "2025-09-05T12:00",
+    "cupos": 50
+  },
+   {
+    "id": 25,
+    "titulo": "Refrigeración de Heladeras Familiares en San Pedro",
+    "descripcion_breve": "Capacitación práctica para instalación, mantenimiento preventivo y reparación básica de heladeras familiares.",
+    "descripcion_completa": "La capacitación en este oficio abre posibilidades concretas de inserción laboral independiente, trabajo por cuenta propia o inserción en empresas de servicios técnicos. Brinda a los participantes los conocimientos y habilidades prácticas necesarias para realizar tareas de instalación, mantenimiento preventivo y reparación básica de heladeras familiares, favoreciendo su inserción laboral en el sector de servicios técnicos. Se trabajan fundamentos de refrigeración, componentes principales, instalación correcta, mantenimiento preventivo, diagnóstico de fallas comunes, resolución de problemas básicos y prácticas integradoras con equipos reales.",
+    "actividades": "Clases teórico-prácticas con diagnóstico, instalación, mantenimiento preventivo y resolución de fallas comunes en heladeras familiares. Incluye prácticas integradoras, estudio de casos y orientación laboral.",
+    "duracion_total": "2 meses (8 clases)",
+    "fecha_inicio": "2025-10-03",
+    "fecha_fin": "2025-11-28",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [4],
+    "dias_horarios": ["Sábados de 15:00 a 19:00"],
+    "localidades": ["La Esperanza – San Pedro de Jujuy"],
+    "direcciones": ["La Esperanza – San Pedro de Jujuy"],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": true,
+      "secundaria_completa": true,
+      "otros": ["Conocimientos previos sobre electricidad"]
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Material para tomar apuntes del marco teórico",
+        "Material para realizar las prácticas profesionalizantes"
+      ],
+      "entrega_curso": ["Certificado de la capacitación"]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdKUtgqPCcFg6DMO4hvp1lWnuX_RDy0VTDcarkFm87_eLf69g/viewform?usp=header",
+    "imagen": "assets/img/cursos2025/refrigeracion_heladeras_2025.webp",
+    "estado": "Cursando",
+    "inscripcion_inicio": "2025-09-29T06:00",
+    "inscripcion_fin": "",
+    "cupos": 40
+  },
+  {
+    "id": 26,
+    "titulo": "Diseño de Modas",
+    "descripcion_breve": "Curso orientado a la confección de prendas urbanas y de gala para el grupo familiar.",
+    "descripcion_completa": "Este curso está orientado a personas interesadas en el diseño y confección de prendas de estilo urbano casual y gala para el grupo familiar. Los alumnos aprenderán a medir y sacar medidas, armar patronaje y confección de distintas prendas para ambos sexos. Se realizarán prendas como falda escolar, blusas para damas y niñas, suéter de damas, polleras tubo y campana, vestidos de gala y para nenas, conjuntos de grafa (camisa y pantalón para hombre) y blazer.",
+    "actividades": "Confección práctica de prendas variadas: faldas, blusas, suéter, vestidos de gala y conjuntos para hombres. Trabajo paso a paso en patronaje, corte y costura de cada prenda.",
+    "duracion_total": "3 meses",
+    "fecha_inicio": "2025-10-03",
+    "fecha_fin": "2025-12-26",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [3],
+    "dias_horarios": ["Viernes de 14:00 a 17:00"],
+    "localidades": ["San Salvador de Jujuy"],
+    "direcciones": ["San Salvador de Jujuy"],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": ["Fotocopia de DNI"]
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Carpeta",
+        "Lapicera",
+        "Regla",
+        "Cinta métrica",
+        "Tiza para telas",
+        "Tijera para papel",
+        "Tijera para tela",
+        "Papel madera",
+        "Telas para cada prenda",
+        "Elásticos partidos",
+        "Elástico común",
+        "Puntilla"
+      ],
+      "entrega_curso": ["Cartilla en Diseño de Moda en PDF"]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSe9RYKvQwAMWQAcJnSbbYlA0Jq7Ne57ejKVHt5o0OcplaN7oQ/viewform?usp=dialog",
+    "imagen": "assets/img/cursos2025/diseño_moda_2025.webp",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2025-10-01T06:00",
+    "inscripcion_fin": "2025-10-03T12:00",
+    "cupos": 50
+  },
+  {
+    "id": 27,
+    "titulo": "Capacitación Segura de Hidrogrúas e Hidroelevadores en Perico",
+    "descripcion_breve": "Formación teórico-práctica en operación segura de hidrogrúas e hidroelevadores con enfoque en seguridad laboral.",
+    "descripcion_completa": "Capacitación teórico-práctica en operación segura de hidrogrúas e hidroelevadores, con enfoque en seguridad laboral y uso responsable de equipos. El curso está dirigido a jóvenes y adultos que deseen formarse en la operación y mantenimiento de estos equipos. A lo largo de la capacitación se enseñará a utilizar correctamente los equipos de izaje, aplicar normas de seguridad, identificar riesgos y manejar elementos de protección personal (EPP). La propuesta combina teoría y práctica: clases dinámicas sobre seguridad y normativa, presentación de componentes y funciones de los equipos, demostraciones con EPP, ejercicios prácticos supervisados con maquinaria y evaluación teórico-práctica final.",
+    "actividades": "Clases teóricas sobre seguridad y normativa, presentación de componentes, demostración de EPP, prácticas supervisadas con maquinaria y evaluación final.",
+    "duracion_total": "72 horas reloj (3 meses, 6 horas semanales)",
+    "fecha_inicio": "2025-10-01",
+    "fecha_fin": "2025-10-31",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [3],
+    "dias_horarios": ["Miércoles de 18:00 a 21:00", "Viernes de 18:00 a 21:00"],
+    "localidades": ["Perico"],
+    "direcciones": ["CIC 2 – Perico"],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": false,
+      "secundaria_completa": true,
+      "otros": ["Carnet de conducir particular"]
+    },
+    "materiales": {
+      "aporta_estudiante": ["Cuaderno", "Lapicera"],
+      "entrega_curso": [
+        "Cartillas de apoyo para el aprendizaje",
+        "Cartilla de Capacitación Segura de Hidrogrúas e Hidroelevadores en PDF"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdfhDWqSBHXnav4H8v7CjJ0mYKTviMBSumECAmSHfczQGGmmg/viewform?usp=header",
+    "imagen": "assets/img/cursos2025/hidrogruas_hidroelevadores_2025.webp",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2025-09-30T06:00",
+    "inscripcion_fin": "2025-10-01T12:00",
+    "cupos": 10
+  },
+  {
+    "id": 28,
+    "titulo": "Peluquería Básica",
+    "descripcion_breve": "Formación integral en técnicas esenciales de peluquería: corte, coloración, peinados e higiene capilar.",
+    "descripcion_completa": "Curso teórico–práctico diseñado para iniciar o profesionalizarse en peluquería. Se abordan corte, coloración, peinados, higiene capilar y atención al cliente. Incluye clases prácticas en maniquíes y modelos reales, demostraciones de coloración, uso correcto de herramientas profesionales y evaluación final con prácticas supervisadas.",
+    "actividades": "Clases prácticas de corte y peinado; trabajos en maniquíes y modelos; demostraciones de coloración; uso y mantenimiento de herramientas; evaluación teórico–práctica final.",
+    "duracion_total": "3 meses",
+    "fecha_inicio": "2025-10-08",
+    "fecha_fin": "2025-12-26",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [3, 4],
+    "dias_horarios": [
+      "Octubre (Teoría): Miércoles y Viernes de 14:00 a 17:00",
+      "Noviembre y Diciembre (Teoría–Práctica): Miércoles y Viernes de 14:00 a 18:00"
+    ],
+    "localidades": ["San Salvador de Jujuy"],
+    "direcciones": ["San Salvador de Jujuy"],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": true,
+      "secundaria_completa": true,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Peine",
+        "Tijera",
+        "Secador",
+        "Planchita",
+        "Capa de corte"
+      ],
+      "entrega_curso": [
+        "Apuntes digitales",
+        "Productos para prácticas",
+        "Maniquí de entrenamiento",
+        "Cartilla Peluquería Básica (PDF)"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfvBc9l3LzWTw_6MKgxMaZUARJjol4wlg1gs9E2bTrw9dTCVg/viewform?usp=header",
+    "imagen": "assets/img/cursos2025/peluqueria_basica_2025.webp",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2025-10-04T22:00",
+    "inscripcion_fin": "2025-10-07T08:00",
+    "cupos": 50
+  },
+  {
+    "id": 29,
+    "titulo": "Barista y Arte en Latte",
+    "descripcion_breve": "Formación práctica para preparar y servir café de alta calidad en entornos profesionales.",
+    "descripcion_completa": "Programa intensivo orientado a personas mayores de 18 años interesadas en trabajar en cafeterías, restaurantes o negocios de café. Se abordan historia y cultura del café, tipos de café y sus características, técnicas de preparación (espresso, latte, cappuccino, etc.), uso de equipos (máquina de espresso, prensa francesa, etc.), diseño y presentación de bebidas y servicio al cliente. La dinámica es 100% práctica con acompañamiento teórico. En la última clase se evalúa teoría y práctica.",
+    "actividades": "Prácticas con equipos de cafetería; preparación de espresso, latte y cappuccino; diseño y presentación de bebidas; simulaciones de atención al público; evaluación teórico–práctica final.",
+    "duracion_total": "2 meses",
+    "fecha_inicio": "2025-10-06",
+    "fecha_fin": "2025-12-03",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [3],
+    "dias_horarios": [
+      "Comisión 1: Lunes de 10:00 a 13:00",
+      "Comisión 2: Miércoles de 16:00 a 19:00"
+    ],
+    "localidades": ["San Salvador de Jujuy"],
+    "direcciones": ["San Salvador de Jujuy"],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": ["Fotocopia de DNI"]
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Material para tomar apuntes (marco teórico)",
+        "Material para realizar prácticas"
+      ],
+      "entrega_curso": ["Cartilla de Barista (PDF)"]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdsmcje4qqzACSmY32XL0PHDgQTAvVQXesViVgHJEdvkHqo0w/viewform?usp=header",
+    "imagen": "assets/img/cursos2025/barista_latte_ssj_2025.webp",
+    "estado": "Cursando",
+    "inscripcion_inicio": "2025-10-04T22:00",
+    "inscripcion_fin": "2025-10-05T22:00",
+    "cupos": 100
+  },
+  {
+    "id": 30,
+    "titulo": "Albañilería Básica para Mujeres - La Quiaca",
+    "descripcion_breve": "Curso completo desde cero para aprender técnicas de albañilería y avanzar por etapas de obra hasta la vivienda terminada.",
+    "descripcion_completa": "Formación orientada a mujeres sin experiencia previa que desean aprender albañilería desde los fundamentos hasta tareas propias de obra: elección de estructuras (columnas, vigas, bases, losa), herramientas y equipos, tipos y dosificación de mezclas, cálculo de materiales, levantamiento de paredes (medianera, exterior, interior, portante), capa aisladora y dinteles, traslado de medidas (nivel de manguera y de mano, plomada) y tipos de techos (losa, chapa, madera) con canaletas y tirantes. Incluye prácticas en campo por etapas de obra, reconocimiento de materiales y uso seguro de herramientas.",
+    "actividades": "Prácticas en campo por etapas (levantado de paredes, nivelación, aplicación de capa aisladora, colocación de aberturas, armado de techos), reconocimiento y cuidado de herramientas, ejercicios de dosificación de mezclas y cálculo de materiales.",
+    "duracion_total": "2 meses y medio (10 encuentros, viernes doble jornada)",
+    "fecha_inicio": "2025-10-10",
+    "fecha_fin": "2025-12-12",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [3, 3],
+    "dias_horarios": ["Viernes de 09:00 a 12:00", "Viernes de 13:00 a 16:00"],
+    "localidades": ["La Quiaca"],
+    "direcciones": ["CIC La Quiaca – La Quiaca"],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": true,
+      "secundaria_completa": true,
+      "otros": [
+        "Ser mujer (femenino)",
+        "Sin conocimiento previo en albañilería",
+        "Fotocopia de DNI"
+      ]
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Carpeta",
+        "Lapicera",
+        "Lápiz",
+        "Goma",
+        "Cuchara",
+        "Metro",
+        "Tenaza",
+        "Martillo",
+        "Balde",
+        "Nivel de mano"
+      ],
+      "entrega_curso": ["Cartilla Albañilería Básica para Mujeres (PDF)"]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfJN0fr0WxCE7gJiMz5zF6YM5Vj7WiH3QqVEn3O2IH9KzZTYg/viewform?usp=header",
+    "imagen": "assets/img/cursos2025/albanileria_basica_mujeres_la_quiaca_2025.webp",
+    "estado": "Cursando",
+    "inscripcion_inicio": "2025-10-07T14:00",
+    "inscripcion_fin": "",
+    "cupos": 15
+  },
+  {
+    "id": 31,
+    "titulo": "Soldadura Básica – La Quiaca",
+    "descripcion_breve": "Introducción práctica a la soldadura/herrería para personas sin experiencia, orientada a salida laboral y microemprendimiento.",
+    "descripcion_completa": "Formación inicial en soldadura u oficios de herrería. Se ven bases del proceso de soldar, seguridad, manejo correcto de herramientas básicas y técnicas de corte y soldadura según el material. Enfocado en personas mayores de 18 años que quieran aprender para emprender, insertarse en empresas o iniciar un microemprendimiento.",
+    "actividades": "Bioseguridad; reconocimiento, uso y manipulación de herramientas; prácticas guiadas de corte y soldadura; ejercicios aplicados según material disponible.",
+    "duracion_total": "2 meses y medio (10 encuentros, viernes doble jornada)",
+    "fecha_inicio": "2025-10-10",
+    "fecha_fin": "2025-12-12",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [3, 3],
+    "dias_horarios": ["Viernes de 09:00 a 12:00", "Viernes de 13:00 a 16:00"],
+    "localidades": ["La Quiaca"],
+    "direcciones": ["CIC La Quiaca – La Quiaca"],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": ["Sin excepción de género", "Fotocopia de DNI"]
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicera",
+        "Hierros para práctica",
+        "Electrodos",
+        "Guantes de cuero",
+        "Antiparras",
+        "Disco de corte"
+      ],
+      "entrega_curso": []
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdAzSvYAdQ6LMLdUIKT3HugMKYLEluEIa8VLX87G-3Mxrgw0Q/viewform?usp=header",
+    "imagen": "assets/img/cursos2025/soldadura_basica_la_quiaca_2025.webp",
+    "estado": "Cursando",
+    "inscripcion_inicio": "2025-10-07T14:00",
+    "inscripcion_fin": "",
+    "cupos": 15
+  },
+  {
+    "id": 32,
+    "titulo": "Maquillaje Social – Humahuaca",
+    "descripcion_breve": "Curso orientado a técnicas profesionales para realzar la belleza en eventos y ocasiones especiales.",
+    "descripcion_completa": "Formación teórico–práctica para lograr acabados elegantes y profesionales en contextos sociales. Se abordan preparación de la piel, selección de productos, técnicas de difuminado, combinación de colores, delineados, aplicación de pestañas postizas y sellado del maquillaje para mayor duración. Destinado a personas que desean iniciarse o perfeccionarse, sin requerir conocimientos previos.",
+    "actividades": "Prácticas guiadas paso a paso sobre modelos o uno mismo: preparación de piel, corrección, bases y contornos, diseño de cejas, maquillajes de ojos (natural, ahumado, glam), aplicación de pestañas postizas, técnicas de fijación, ejercicios de armonización de color y armado de portfolio.",
+    "duracion_total": "2 meses y medio (10 encuentros)",
+    "fecha_inicio": "2025-10-10",
+    "fecha_fin": "2025-12-12",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [3],
+    "dias_horarios": ["Viernes de 13:00 a 16:00"],
+    "localidades": ["Humahuaca"],
+    "direcciones": ["Humahuaca"],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": true,
+      "secundaria_completa": true,
+      "otros": ["Fotocopia de DNI"]
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Set básico de brochas y pinceles",
+        "Paleta de maquillaje",
+        "Esponjas de maquillaje",
+        "Toalla pequeña o pañuelos descartables",
+        "Desmaquillante y algodón",
+        "Máscara de pestañas personal",
+        "Base del tono de su piel",
+        "Espejo de mesa",
+        "Cuaderno y lapicera"
+      ],
+      "entrega_curso": [
+        "Guías teóricas y prácticas en PDF",
+        "Ejemplos de diseños y modelos de referencia",
+        "Espacio acondicionado para práctica"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSf-SRz4Tu_S8-Bp-ydmj1dK6X4qrJ-6O5EfdeqkLWF0q0BCjQ/viewform?usp=header",
+    "imagen": "assets/img/cursos2025/maquillaje_social_humahuaca_2025.webp",
+    "estado": "Cursando",
+    "inscripcion_inicio": "2025-10-07T14:00",
+    "inscripcion_fin": "",
+    "cupos": 15
+  },
+  {
+    "id": 33,
+    "titulo": "Maquillaje Artístico – Pintacaritas - Humahuaca",
+    "descripcion_breve": "Aprendé técnicas de maquillaje artístico y pintacaritas para eventos infantiles y sociales, potenciando tu creatividad y salida laboral.",
+    "descripcion_completa": "Capacitación teórico–práctica para iniciarse y perfeccionarse en maquillaje artístico con foco en pintacaritas aplicado en fiestas, eventos culturales y actividades recreativas. Se trabaja uso de pinceles y esponjas, combinación de colores, aplicación de glitter y creación de diseños temáticos (animales, flores, personajes, fantasía), organización del trabajo en eventos y armado de portfolio.",
+    "actividades": "Demostraciones paso a paso; prácticas con distintos materiales, pinceles y esponjas; ejercicios de creatividad y elaboración de personajes; simulación de trabajo en eventos con gestión de tiempos y trato con niños; creación de un portfolio personal.",
+    "duracion_total": "2 meses y medio (10 encuentros)",
+    "fecha_inicio": "2025-10-10",
+    "fecha_fin": "2025-12-12",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [3],
+    "dias_horarios": ["Viernes de 09:00 a 12:00"],
+    "localidades": ["Humahuaca"],
+    "direcciones": ["Humahuaca"],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": true,
+      "secundaria_completa": true,
+      "otros": ["Fotocopia de DNI"]
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Set básico de pinceles y esponjas (no pelo de caballo)",
+        "Pinceles finos N°1 o N°2",
+        "Pincel redondo N°4 o N°6",
+        "Pincel plano N°6/N°8/N°10/N°12",
+        "Pinturas hipoalergénicas al agua (negro, blanco, rojo, amarillo, azul, naranja, verde, celeste, rosa)",
+        "Recipiente para agua",
+        "Toallas de mano o toallitas húmedas",
+        "Servilletas",
+        "Atomizador spray pequeño",
+        "Elementos de higiene personal",
+        "Glitter, strass, gemas y accesorios (opcionales)",
+        "Hojas de dibujo",
+        "Espejo"
+      ],
+      "entrega_curso": [
+        "Guías teóricas de Maquillaje Artístico – Pintacaritas (PDF)",
+        "Ejemplos y modelos de referencia"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfLmrJ23Q_8hI8mpqXKjEeseuN4eOtBzo5mEarL93aq8J8a8A/viewform?usp=header",
+    "imagen": "assets/img/cursos2025/maquillaje_artistico_pintacaritas_humahuaca_2025.webp",
+    "estado": "Cursando",
+    "inscripcion_inicio": "2025-10-07T14:00",
+    "inscripcion_fin": "",
+    "cupos": 15
+  },
+  {
+    "id": 34,
+    "titulo": "Cocina Regional Hotelera – Humahuaca",
+    "descripcion_breve": "Capacitación en técnicas culinarias regionales, integración de ingredientes locales, gestión de menús y normas de higiene aplicadas a hotelería y turismo.",
+    "descripcion_completa": "El curso forma para desempeñarse en contextos gastronómicos hoteleros y turísticos, integrando historia de la alimentación, identidad culinaria local y normativas de higiene. Se trabajan técnicas específicas de cocina regional, uso de ingredientes típicos, recetas tradicionales (guisos, estofados, postres), gestión de menús y criterios de diseño/armado de platos. Orientado a personas con habilidad para el trabajo en equipo, con o sin conocimientos previos.",
+    "actividades": "Prácticas de técnicas de cocción y manipulación segura; uso de utensilios; elaboración de platos regionales; integración de menús para servicio hotelero; presentación y emplatado.",
+    "duracion_total": "2 meses y medio (10 encuentros, viernes doble jornada)",
+    "fecha_inicio": "2025-10-10",
+    "fecha_fin": "2025-12-12",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [3, 3],
+    "dias_horarios": ["Viernes de 09:00 a 12:00", "Viernes de 13:00 a 16:00"],
+    "localidades": ["Humahuaca"],
+    "direcciones": ["Humahuaca"],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": true,
+      "secundaria_completa": true,
+      "otros": [
+        "Respetar normas de presentación personal e higiene",
+        "Habilidad para trabajar en equipo",
+        "Con o sin conocimiento previo",
+        "Fotocopia de DNI"
+      ]
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cofia",
+        "Delantal",
+        "Repasador",
+        "Ingredientes",
+        "Cuaderno",
+        "Lapicera",
+        "Cubiertos",
+        "Platos para presentación"
+      ],
+      "entrega_curso": [
+        "Espacio equipado para prácticas",
+        "Recetarios en PDF (vía WhatsApp)"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfElCEkZhTVGl4YgTkz1OT1S1myRuTCsE6T47czIbZ3QmHBsg/viewform?usp=header",
+    "imagen": "assets/img/cursos2025/cocina_regional_hotelera_humahuaca_2025.webp",
+    "estado": "Cursando",
+    "inscripcion_inicio": "2025-10-07T14:00",
+    "inscripcion_fin": "",
+    "cupos": 15
+  },
+  {
+    "id": 35,
+    "titulo": "Creatívate: Taller de Panadería Especial – Día de los Fieles Difuntos",
+    "descripcion_breve": "Taller intensivo de un día para elaborar ofrendas y rosquetes tradicionales de la fecha.",
+    "descripcion_completa": "Taller práctico para aprender a preparar productos regionales vinculados a la conmemoración de los Fieles Difuntos. Se trabajará la masa de ofrendas (significados de las formas, preparación, leudado, formado y horneado) y los rosquetes (preparación de masa, leudado, formado, horneado y blanqueo). Orientado a mayores de 18 años con predisposición para aprender.",
+    "actividades": "Masa de ofrenda: preparación, leudado, formado y horneado. Rosquetes: elaboración de masa, leudado, formado de piezas, horneado y blanqueo.",
+    "duracion_total": "1 día",
+    "fecha_inicio": "2025-10-31",
+    "fecha_fin": "2025-10-31",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [4],
+    "dias_horarios": ["Viernes 31-10 de 15:00 a 19:00"],
+    "localidades": ["San Salvador de Jujuy"],
+    "direcciones": [
+      "Capitán Guillermón esq. Carmen de Neverán – Barrio Huaico – San Salvador de Jujuy"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "primaria_completa": true,
+      "secundaria_completa": true,
+      "otros": ["Predisposición para aprender"]
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Ingredientes",
+        "Balanza",
+        "Delantal",
+        "Cofia",
+        "2 bowls medianos",
+        "Cubiertos",
+        "Repasador",
+        "2 bandejas para hornear",
+        "Tijeras",
+        "Papel manteca",
+        "Batidor de alambre"
+      ],
+      "entrega_curso": ["Horno", "Cocina", "Mesas para trabajar"]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScJScRzXs7vZE2mXAC-NdaGJvJyil37YSr_1ttXoJp-eRR60Q/viewform?usp=publish-editor",
+    "imagen": "assets/img/cursos2025/panaderia_fieles_difuntos_2025.webp",
+    "estado": "finalizado",
+    "inscripcion_inicio": "",
+    "inscripcion_fin": "",
+    "cupos": null
+  },
+  {
+    "id": 36,
+    "titulo": "ALMA ARTE – Cuadro Regional para Nuestras Almitas",
+    "descripcion_breve": "Taller de creación de cuadro artesanal con foto de nuestras almitas usando técnicas mixtas y materiales regionales.",
+    "descripcion_completa": "Decoración y creación de un cuadro artesanal con la foto o impresión de nuestras almitas. Se compone una obra armónica incorporando elementos como alitas de barro/cerámica, marlos de choclo secos, flores secas, pinturas, guardas, telas, cintas, puntillas y piedras. Se aprenderán técnicas de armado como empastes, incrustaciones, decoupage y pintura. Incluye nociones de presupuesto (inversión–costos–precios) para emprender. Destinado a personas mayores de 15 años.",
+    "actividades": "Diseño de composición; preparación de base; aplicación de empastes e incrustaciones; decoupage con fotografía; pintura y terminaciones; armado del cuadro; cálculo básico de costos para venta.",
+    "duracion_total": "1 clase de 3 a 4 horas (con réplica/segunda clase opcional)",
+    "fecha_inicio": "2025-10-30",
+    "fecha_fin": "2025-10-30",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [3, 4],
+    "dias_horarios": [
+      "Jueves 30/10 de 15:00 a 18:00–19:00 (réplica)"
+    ],
+    "localidades": [],
+    "direcciones": [],
+    "requisitos": {
+      "mayor_18": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": ["Ser mayor de 15 años"]
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Imagen o foto del almita",
+        "Diario, servilletas, papel de cocina",
+        "Telas blandas (remeras viejas/rotas)",
+        "Plasticola o Fortex",
+        "Pincel y pinceleta",
+        "Flores secas",
+        "Ollas/alitas de barro o cerámica",
+        "Hoja de sierra",
+        "Marlos de choclo secos",
+        "Cartón",
+        "Piedritas pequeñas (1–3 cm)",
+        "Paleta/base para pinturas",
+        "Acrílicos varios colores",
+        "Recipiente para agua",
+        "Pistola de silicona y barritas",
+        "Tijera común"
+      ],
+      "entrega_curso": []
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSenAgg0h9mZsAct4hTHICClGHdzVHOIDjg3G9sKNGh_WIEk3A/viewform?usp=publish-editor",
+    "imagen": "assets/img/cursos2025/alma_arte_cuadro_almitas_2025.webp",
+    "estado": "finalizado",
+    "inscripcion_inicio": "",
+    "inscripcion_fin": "",
+    "cupos": null
+  }
+]

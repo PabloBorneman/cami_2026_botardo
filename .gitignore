@@ -1,2 +1,6 @@
-node_modules
-whatsapp-session.json
+node_modules/
+.env
+sessions/
+.wwebjs_auth/
+.wwebjs_cache/
+npm-debug.log*
