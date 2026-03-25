@@ -55,9 +55,9 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScP5qXjDb1dtAONlwL7uGxp-8KnvUZUPsEvb-yblqaNw9sRFw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774417658645_c0a62375f619.webp",
     "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
-    "cupos": 50
+    "cupos": 25
   },
   {
     "id": "9dc48288-029b8a",
@@ -103,9 +103,9 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeYcTRaIfdcl7gGymtXI004i0WHrjV3-XZpBVz25AWd92OPIg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774417698261_d9309ffa7756.webp",
     "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
-    "cupos": 50
+    "cupos": 25
   },
   {
     "id": "ba15a738-3a0879",
@@ -176,10 +176,10 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfqNIYTkPP-uYPsGcQ7pREhlYpX5EDcfpn7H1ulU3lZSfAp_g/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774417798722_98a6ab87541f.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
-    "cupos": 50
+    "cupos": 25
   },
   {
     "id": "31e546db-2f0263",
@@ -227,10 +227,10 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScIXTxKZ32oQAGVc2qTQXZSKX25xIl17qO6yyPcS8aWXuMXCQ/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774417939736_b4d1ea49f3d2.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
-    "cupos": 50
+    "cupos": 25
   },
   {
     "id": "97691ff3-56ed45",
@@ -277,9 +277,9 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScWnqRaAFDRzZZ6y2hz4n-W4u7Kf2TX9hUO3Tj__QLWH3fwsA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774418021254_e6ccc089415e.webp",
     "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
-    "cupos": 50
+    "cupos": 25
   },
   {
     "id": "1327441d-77e91f",
@@ -326,10 +326,10 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSez7a-tQiZerLWKkZlTs2VO1g8niUFSYnGnlLwx2ctmcphH7Q/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774418154967_8ca0744ef784.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
-    "cupos": 50
+    "cupos": 25
   },
   {
     "id": "19720c88-4e9ac2",
@@ -374,10 +374,10 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdD9CDJ761x69gIjznykSdjmEB_eQlQIJ4pqv0P8HdBSFQptA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774418253066_8d35c873007c.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
-    "cupos": 50
+    "cupos": 25
   },
   {
     "id": "ddbeb91c-93708a",
@@ -425,10 +425,10 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdetaxWzWccn3boax6xH_JLurNQZLK7mW3kpInUITwwL-SWuQ/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774418383713_85621217962d.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
-    "cupos": 50
+    "cupos": 25
   },
   {
     "id": "e766ef82-c14b52",
@@ -475,10 +475,10 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfX0g-yjyzMKFX5xPW3HbiCT3TAapMmsvE2w-xYp28pD4Kcxg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774418474472_44aa7247861d.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
-    "cupos": 50
+    "cupos": 25
   },
   {
     "id": "e04001fa-4fcbce",
@@ -523,10 +523,10 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScTEut61r4g0ac4RzIaf2LBE051IwFYk9phi56ak1aECfAqOA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774418671625_6907912b0faa.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
-    "cupos": 50
+    "cupos": 25
   },
   {
     "id": "63a37fe6-ac587f",
@@ -573,10 +573,10 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeIYKGX6SL4GrIFF1vlrOfNLAi6jcRvvakq9JmLKk35NSryFA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774418992806_892cfb0f9817.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
-    "cupos": 50
+    "cupos": 25
   },
   {
     "id": "4ace0323-4dd24c",
@@ -624,10 +624,10 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdS4eiP79fVjaSCLtMKCPq9QJGgEYOWnRyiwSmeuC4Xl6tOzg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774419112994_7e5d07145c1b.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
-    "cupos": 50
+    "cupos": 25
   },
   {
     "id": "c108e5d9-17eb29",
@@ -673,12 +673,12 @@
         "Recetarios en formato PDF"
       ]
     },
-    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfNY_a35ag077RVMjuIvPGwbqunFmGykMFkj5GTrViHhG508g/viewform?usp=dialog",
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfNY_a35ag077RVMjuIvPGwbqunFmGykMFkj5GTrViHhG258g/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774419204416_d64be06ce9a5.webp",
     "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
-    "cupos": 50
+    "cupos": 25
   },
   {
     "id": "9c5a7fe2-762aaa",
@@ -730,9 +730,9 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSd4UaeA3RG9VUcE3kQs0QYluV1efIm_cibQ0fG8C1eFxQyiAw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774420842946_8be998a977ad.webp",
     "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
-    "cupos": 50
+    "cupos": 25
   },
   {
     "id": "4d25fd67-63e099",
@@ -783,9 +783,1255 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdQE-p28blRI1-UJBJZWpCP12pn4rfyKYPzHJFHUStHCeajPQ/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774421197064_cc1da246a933.webp",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "01911479-7ba45b",
+    "slug": "ingles-basico-para-recepcionistas-taxistas-y-remiseros-san-salvador-de-jujuy",
+    "titulo": "Inglés Básico para Recepcionistas, Taxistas y Remiseros – San Salvador de Jujuy",
+    "descripcion_breve": "Te brindará herramientas básicas de comunicación en Inglés para interactuar con pasajeros extranjeros y mejorar la calidad del servicio .",
+    "descripcion_completa": "Este curso está diseñado para brindar herramientas básicas y prácticas de comunicación en Inglés. A lo largo del curso los alumnos aprenderán vocabulario esencial y frases útiles para interactuar con pasajeros extranjeros, comprender direcciones, responder preguntas frecuentes y ofrecer un servicio más profesional Está dirigido a taxista y Remiseros que deseen adquirir conocimientos básicos del idioma, Ampliar sus oportunidades laborales y destacarse en un contexto cada vez más turístico y competitivo.",
+    "actividades": "Prácticas de escritura. Prácticas de pronunciación. Prácticas de diálogos",
+    "duracion_total": "2 meses",
+    "fecha_inicio": "2026-04-09",
+    "fecha_inicio_legible": "9 de abril",
+    "fecha_fin": "2026-05-29",
+    "fecha_fin_legible": "29 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Jueves de 9:00 a 12:00",
+      "Viernes de 9:00 a 12:00"
+    ],
+    "localidades": [
+      "San Salvador de Jujuy"
+    ],
+    "direcciones": [
+      "A informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": true,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicera"
+      ],
+      "entrega_curso": [
+        "Cartilla"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScH3AWbm_LaUnGNppcfrG-FOqh_AeImRGECT1W0Pp_3w-Fdig/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774456224325_31bb531a3683.webp",
     "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "48d065e4-d2c35b",
+    "slug": "regiduria-de-piso-housekeeping-san-salvador-de-jujuy",
+    "titulo": "Regiduría de Piso. Housekeeping – San Salvador de Jujuy",
+    "descripcion_breve": "Housekeeping para hotelería enfocado en técnicas de limpieza y organización profesional de habitaciones para brindar un servicio de excelencia en el sector.",
+    "descripcion_completa": "En éste curso se dictarán técnicas de limpieza, orden y mantenimiento de habitaciones y área comunes , nociones básicas sobre la prevención de riesgos laborales en salud y seguridad asociados a la tarea, hergonomia en el trabajo y atención al huésped. Está dirigido a personas interesadas en desempeñarse en el área.",
+    "actividades": "Clases teóricas y prácticas.Limpieza y equipamiento de habitación. Armado de cama. Reposición de blancos y amenities. Control de calidad.",
+    "duracion_total": "2 meses",
+    "fecha_inicio": "2026-04-08",
+    "fecha_inicio_legible": "8 de abril",
+    "fecha_fin": "2026-06-10",
+    "fecha_fin_legible": "10 de junio",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Martes de 9:00 a 12:00",
+      "Miércoles de 9:00 a 12:00"
+    ],
+    "localidades": [
+      "San Salvador de Jujuy"
+    ],
+    "direcciones": [
+      "A informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicera"
+      ],
+      "entrega_curso": [
+        "Cartilla Pdf"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScimkmA8Ea3I1sq9zpiHjVsdA5Q64fgpGCl7u_Bh5R7Zzr3rA/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774456386295_f0d471084ae8.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "41f3f697-813c5e",
+    "slug": "barista-y-arte-latte-san-salvador-de-jujuy",
+    "titulo": "Barista y Arte Latte – San Salvador de Jujuy",
+    "descripcion_breve": "Formación para trabajar en atención al público en cafeterías,confiterías y hoteles con dominio de manejo de distintas tipos de cafeteras,van aprender elaborar infusiones básicas como Café con Leche a más elaborados como Café Dalgona. En la parte teorica del cursado se enseñará la historia y producción de café ,tipos de café ,café de especialidad ,higiene y atención al cliente.",
+    "descripcion_completa": "El curso está orientado en personas que quieran especializarse en un servicio de alta calidad con la orientación de abrir una cafetería o agregar a su currículum para obtener mayor oportunidad laboral",
+    "actividades": "Teórico Historia del Café Definición y tipos de café de especialidad Producción del café Higiene y seguridad Atención al cliente Práctica Manejo de la Máquina de Expreso Manejo de otras tipos de cafeteras Elaborar distintos tipos de preparaciones con café Cafetería fría: Frappé y Malteadas Arte Latte Practicas de texturizado de leche",
+    "duracion_total": "8 semanas(8 encuentros)",
+    "fecha_inicio": "2026-04-06",
+    "fecha_inicio_legible": "6 de abril",
+    "fecha_fin": "2026-05-26",
+    "fecha_fin_legible": "26 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Lunes de 10 a 13hs",
+      "Miércoles de 10 a 13hs"
+    ],
+    "localidades": [
+      "San Salvador de Jujuy"
+    ],
+    "direcciones": [
+      "A informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "lapicera y los materiales que ese día se solicite"
+      ],
+      "entrega_curso": [
+        "Un salón con enchufes",
+        "si tienen pizarrón mejor"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdK12ijSVTXJMeqz3-_E2hckxHAzw0FE-TDtdKlEbkJMjub5Q/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774456497368_252e5e9dbba3.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "8ede8213-f6935a",
+    "slug": "glitter-bar-tattoo-bar-san-salvador-de-jujuy",
+    "titulo": "Glitter Bar / Tattoo Bar – San Salvador de Jujuy",
+    "descripcion_breve": "Formación práctica en glitter bar y tattoo bar orientada a eventos, donde se enseñan técnicas de aplicación de glitter, gemas y tatuajes temporales, combinando creatividad, higiene y atención al cliente.",
+    "descripcion_completa": "El curso está orientado a personas que deseen iniciarse o emprender en el servicio de glitter bar y tattoo bar para eventos. Se enseñarán técnicas de aplicación de glitter, gemas faciales y corporales, y tatuajes temporales, junto con el uso correcto de materiales, normas de higiene, armado del espacio de trabajo y atención al cliente. Está dirigido tanto a principiantes como a quienes buscan sumar un servicio creativo y rentable a su propuesta.",
+    "actividades": "Introducción a materiales y productos para glitter bar y tattoo bar. Normas de higiene y cuidado de la piel. Preparación del área de trabajo y organización del servicio. Técnicas de aplicación de glitter facial y corporal. Aplicación de gemas y diseños creativos. Técnicas de tatuajes temporales (calcomanías, stencil, henna básica). Combinación de colores y tendencias en diseños. Atención al cliente y asesoramiento según evento. Prácticas de aplicación entre alumnos. Simulación de servicio para eventos",
+    "duracion_total": "2 MESES",
+    "fecha_inicio": "2026-04-06",
+    "fecha_inicio_legible": "6 de abril",
+    "fecha_fin": "2026-05-27",
+    "fecha_fin_legible": "27 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Lunes de 15 a 18 hs",
+      "Miércoles de 15 a 18 hs"
+    ],
+    "localidades": [
+      "San Salvador de Jujuy"
+    ],
+    "direcciones": [
+      "A informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Set básico de brochas y pinceles artisticos",
+        "Paleta de maquillaje de los tonos que deseen",
+        "pigmentos fluor o maquillaje fluor",
+        "plumas",
+        "gemas",
+        "strar",
+        "pegamento de pestaña trasparente o blanco",
+        "pincita para el rostro",
+        "toallitas humedas y servilletas o tolla",
+        "gliter de todo tipo : polvo , escamas de sirenas, holografico , fluor etc",
+        "esponjitas",
+        "espejo de mesa",
+        "polvo de hadas",
+        "maquillaje teatral de cualquier color",
+        "atomisador de agua pequeño"
+      ],
+      "entrega_curso": [
+        "Guías teóricas y prácticas",
+        "Ejemplos de diseños y modelos de referencia",
+        "Espacio acondicionado para la práctica"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScD_YibWczfjvUAe8PEbBKR2nt0JIxE7Bu3pFIuIVOhGiZgpw/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774456762405_743e749638a6.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "20c96cbb-7af050",
+    "slug": "ayudante-de-panadero-palpala",
+    "titulo": "Ayudante de Panadero – Palpalá",
+    "descripcion_breve": "Curso de ayudante de panadero orientado a la formación en procesos técnicos de elaboración, incluyendo pesaje, mezclado, amasado, fermentación y cocción según parámetros establecidos. cumpliendo normas de higiene, manipulación de alimentos y estandarización de procesos",
+    "descripcion_completa": "Ayudante de panadero orientado a la formación técnica en procesos de producción panadera, incluyendo control y pesaje de materias primas, formulación de masas, técnicas de amasado (manual y mecánico), fermentación, división, boleado, formado, leudado y cocción, con aplicación de parámetros de tiempo, temperatura y humedad. Se incorporan además conocimientos de higiene y seguridad alimentaria, buenas prácticas de manufactura (BPM), conservación de productos y organización del área de trabajo. Está dirigido a personas mayores de 18 años, con o sin experiencia previa, interesadas en desempeñarse como auxiliares en panaderías, emprendimientos gastronómicos o iniciar proyectos propios, adquiriendo competencias técnicas que favorezcan una rápida inserción laboral.",
+    "actividades": "Introducción a la panificación y funciones del ayudante Manejo de Materias primas: tipos, características y conservación Pesaje y formulación de recetas Técnicas de amasado (manual y mecánico) Fermentación: procesos, tiempos y control División, boleado y formado de piezas Cocción: manejo de hornos y parámetros básicos Higiene y seguridad alimentaria (BPM) Organización del área de trabajo y conservación de productos",
+    "duracion_total": "8 semanas (16 encuentros",
+    "fecha_inicio": "2026-04-06",
+    "fecha_inicio_legible": "6 de abril",
+    "fecha_fin": "2026-05-27",
+    "fecha_fin_legible": "27 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      4
+    ],
+    "dias_horarios": [
+      "Lunes 15:00 a 18:00",
+      "Miércoles 15:00 a 18:00"
+    ],
+    "localidades": [
+      "Palpalá"
+    ],
+    "direcciones": [
+      "A confirmar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "cuaderno",
+        "lapicera",
+        "cofia",
+        "delantal",
+        "utensilios de cocina:",
+        "bol",
+        "palo de amasar",
+        "balanza etc",
+        "insumos para la receta:",
+        "harina",
+        "levadura",
+        "manteca etc"
+      ],
+      "entrega_curso": [
+        "material en PDF"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfcSv6rB8pLLNMu_Z2l4cLrqbd3yU7wLsOXw0ntyHPmxLvBdg/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774456929573_e96d070affc2.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "298a9d01-25e856",
+    "slug": "cocina-regional-palpala",
+    "titulo": "Cocina Regional – Palpalá",
+    "descripcion_breve": "Curso de COCINA REGIONAL orientado a la formación técnica en la elaboración de preparaciones típicas, abordando selección de materias primas, técnicas de cocción tradicionales y presentación de platos. Incluye aplicación de normas de higiene, estandarización de recetas y valorización de productos locales con enfoque gastronómico y cultural",
+    "descripcion_completa": "COCINA REGIONAL orientado a la formación técnica en la elaboración de platos tradicionales, incorporando selección y manejo de materias primas locales, técnicas de cocción autóctonas y estandarización de recetas. Incluye aplicación de buenas prácticas de manufactura (BPM), control de calidad, conservación de alimentos y presentación gastronómica con identidad cultural. Está dirigido a personas mayores de 18 años, con o sin experiencia previa, interesadas en adquirir competencias culinarias para la inserción laboral o el desarrollo de emprendimientos gastronómicos vinculados a la cocina regional",
+    "actividades": "Introducción a la cocina regional y patrimonio gastronómico Reconocimiento de la materias primas locales: selección y uso Técnicas de cocción tradicionales Elaboración de platos típicos (salados y dulces) Estandarización de recetas Higiene y seguridad alimentaria (BPM) Presentación y emplatado con identidad cultural Organización de la cocina y conservación de alimentos",
+    "duracion_total": "8 semanas ( 16 encuentros )",
+    "fecha_inicio": "2026-04-06",
+    "fecha_inicio_legible": "6 de abril",
+    "fecha_fin": "2026-05-27",
+    "fecha_fin_legible": "27 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Miércoles 18:00 a 21:00",
+      "Viernes 18:00 a 21:00"
+    ],
+    "localidades": [
+      "Palpalá"
+    ],
+    "direcciones": [
+      "A confirmar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "cuaderno",
+        "laicera",
+        "cofia",
+        "delantal",
+        "utensilios de cocina:",
+        "cuchillo",
+        "tabla",
+        "plato",
+        "cuchara etc",
+        "insumos de la receta",
+        "verduras",
+        "carnes",
+        "aceite etc"
+      ],
+      "entrega_curso": [
+        "cartilla en PDF"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSccPJgAnUwqkAXq1wEciy9sqXJJ2Uo0hW_aQHdwuFvS5THnbA/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774457085544_243c535fcbf1.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "3897d98a-e2a658",
+    "slug": "indumentaria-para-mascotas-palpala",
+    "titulo": "Indumentaria para Mascotas – Palpalá",
+    "descripcion_breve": "Curso práctico de diseño y confección de prendas para mascotas, orientado al aprendizaje de molderia, costura y desarrollo de micro emprendimientos.",
+    "descripcion_completa": "Este curso está orientado a personas interesadas en el diseño y la confección de indumentaria de mascotas, brindando herramientas prácticas para crear prendas funcionales, cómodas y estéticamente agradables para ellas. A través del aprendizaje de técnicas de modistería adaptadas a la anatomía animal, las y los participantes podrán producir ropa para distintos tamaños, considerando aspectos como el confort, la movilidad, el abrigo y las necesidades específicas de cada raza.",
+    "actividades": "Se realizarán actividades prácticas como la toma de medidas en mascotas, diseño y confección de moldes básicos y personalizados, corte y costura de diferentes tipos de prendas (abrigos, chalecos, capas, etc.). Las y los estudiantes trabajarán con telas apropiadas como polar, gabardina, frisa o impermeables, y aprenderán a colocar sistemas de cierre como velcro o elástico. Se fomentará la creatividad en el diseño y la adaptación de prendas según el tamaño y estilo de la mascota. Al finalizar, se presentará un trabajo práctico individual: una prenda completa confeccionada y adaptada a una mascota real o de molde.",
+    "duracion_total": "8 semanas(16 clases)",
+    "fecha_inicio": "2026-04-09",
+    "fecha_inicio_legible": "9 de abril",
+    "fecha_fin": "2026-05-27",
+    "fecha_fin_legible": "27 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Jueves de 17:00 a 20.00",
+      "Viernes de 17:00 a 20:00"
+    ],
+    "localidades": [
+      "Palpalá"
+    ],
+    "direcciones": [
+      "A informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicera",
+        "Papel de molde",
+        "Lápiz",
+        "Cinta metrica"
+      ],
+      "entrega_curso": [
+        "Material teórico en PDF"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSf3kbiyrddYfnp9ptVIMq3i7WWJ3hXBLM10Juk3ZhPG8nyMcA/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774457190688_30e7191628a6.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "68511020-9c5254",
+    "slug": "confeccion-de-ajuar-para-recien-nacido-palpala",
+    "titulo": "Confección de Ajuar para Recién Nacido – Palpalá",
+    "descripcion_breve": "Curso teórico-práctico de corte y confección donde los participantes aprenderán a elaborar un ajuar completo para recién nacido, utilizando moldes básicos, técnicas de costura y materiales adecuados para bebés.",
+    "descripcion_completa": "El curso “Confección de Ajuar para Recién Nacido” está orientado a personas interesadas en aprender costura y confeccionar prendas y accesorios para bebés. Durante las clases se enseñará selección de telas adecuadas, interpretación de moldes, corte y armado de prendas como batita, ranita, gorro, mitones y babero, además de accesorios como toalla con capucha, mantita, bolso maternal y cambiador portátil. El curso es teórico-práctico y también brindará nociones básicas para el desarrollo de emprendimientos textiles.",
+    "actividades": "Introducción al ajuar y selección de materiales. Toma de medidas y uso de moldes para recién nacido. Corte y confección de batita cruzada. Confección de ranita o pantalón con pie. Confección de gorro y mitones. Armado de body y babero. Confección de toalla con capucha. Realización de colcha o mantita. Diseño y confección de bolso maternal. Confección de cambiador portátil. Terminaciones, planchado y presentación del ajuar final.",
+    "duracion_total": "8 semanas( 16 clases)",
+    "fecha_inicio": "2026-04-01",
+    "fecha_inicio_legible": "1 de abril",
+    "fecha_fin": "2026-05-29",
+    "fecha_fin_legible": "29 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      4
+    ],
+    "dias_horarios": [
+      "Miércoles: 08:00 a 12:00 o 17:00 a 21:00",
+      "Viernes: 08:00 a 12:00 o 17:00 a 21:00"
+    ],
+    "localidades": [
+      "Palpalá"
+    ],
+    "direcciones": [
+      "A informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicera",
+        "Cinta métrica",
+        "Papel de molde",
+        "Lapiz",
+        "Reglas"
+      ],
+      "entrega_curso": [
+        "Material teórico en Pdf"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSe3NyHFYIkgQYCVa9QLYctsGMiiCUAuH29a7MdoarSh8pw2YQ/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774457367808_e445d365b09e.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "5ad96a52-fc195a",
+    "slug": "construccion-en-seco-monterrico",
+    "titulo": "Construcción en Seco – Monterrico",
+    "descripcion_breve": "Formación intensiva para trabajar cono instalador de construcción en seco como : división , cielo raso, diseños, revestimiento.presupuetos.",
+    "descripcion_completa": "El curso está dirigido a jóvenes y adultos que quieran trabajar con instaladores de la construcción en seco. Se abordará temas . Conocimiento de los materiales y maquinarias .preparación de la obra .armado de las estructuras . Distintos tipos de diseño. Elaboración de presupuesto.",
+    "actividades": "Manejo adecuado de las máquinas. Conocimiento de marcas de las herramientas y materiales.maniobar de en masillado y terminación. Limpieza y mantenimiento de las herramientas.",
+    "duracion_total": "2 mes",
+    "fecha_inicio": "2026-04-07",
+    "fecha_inicio_legible": "7 de abril",
+    "fecha_fin": "2026-05-26",
+    "fecha_fin_legible": "26 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Martes de 18:00 a 21:00",
+      "Jueves de 18:00 a 21:00"
+    ],
+    "localidades": [
+      "Monterrico"
+    ],
+    "direcciones": [
+      "A informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapiceras",
+        "Ropa cómoda",
+        "Ruleta",
+        "Lapis cartinpero"
+      ],
+      "entrega_curso": [
+        "Material digital complmentario"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSev6TbEeDw8kiSx0WlCg3KoBxOQwIjzfGcm3Ct_XeGaiXrERg/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774457523410_669872546b43.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "9c6da0f0-38545d",
+    "slug": "panaderia-y-pasteleria-basica-monterrico",
+    "titulo": "Panadería y Pastelería Básica – Monterrico",
+    "descripcion_breve": "FORMACION BASICA ORIENTADO EN LA ELABORACION DE PANIFICADOS Y PRODUCTOS DULCES: PANFRANCES,PANES INTEGRALES, , MASAS QUEBRADAS, BATIDOS LIVIANOS Y PESADOS.",
+    "descripcion_completa": "EL CURSO ESTA ORIENTADO A PERSONAS QUE QUIERAN INCIARSE EN EL MUNDO DE LOS PANIFICADOS Y LOS DULCE. SE TRABAJARA LOS PRECEDIMIENTOS DE LOS PANIFICADOS, TECNICAS DE LAS MASAS QUEBRADAS, BATIDOS LIVIANOS Y PESADOS. CONSERVACION",
+    "actividades": "AMASADO, BOLLADO, COCCION DE LOS PANIFICADOS, CREMADO, ARENADO EN MASAS QUEBRADAS, TECNICA DE BATIDOS Y CONSERVACION DE LAS MASAS Y PRODUCTOS YA HORNEADOS.",
+    "duracion_total": "2 mes",
+    "fecha_inicio": "2026-04-07",
+    "fecha_inicio_legible": "7 de abril",
+    "fecha_fin": "2026-05-30",
+    "fecha_fin_legible": "30 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Martes DE 9:00 A 12:00",
+      "Sábado DE 15:00 A 18:00"
+    ],
+    "localidades": [
+      "Monterrico"
+    ],
+    "direcciones": [
+      "A confirmar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "CUADERNO",
+        "LAPICERA",
+        "DELANTAL",
+        "CUBIERTOS",
+        "BALANZA DIGITAL",
+        "REPASADOR",
+        "BOLWS MEDIANOS",
+        "Y OTROS ELEMENTOS QUE SE IRA PIDIENDO POR CLASE"
+      ],
+      "entrega_curso": [
+        "MATERIAL DIGITAL COMPLEMENTARIO"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSe0f2kX_t-2k6z91nbCnMza9EXruvXvlbtW7L4Ex4dzeaohbg/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774458056910_bd75e953ac4f.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "fd511472-db045e",
+    "slug": "soldadura-basica-y-manejo-de-herramientas-electricas-aguas-calientes",
+    "titulo": "Soldadura Básica y Manejo de Herramientas Eléctricas – Aguas Calientes",
+    "descripcion_breve": "CAPACITAR AL ALUMNO INTENSAMENTE PARA QUE REALICE UNIONES PERMANENTE DE PIEZAS METÁLICAS, UTILIZANDO TÉCNICAS DE TRAZADO, CORTES , Y POSICIONES DE PIEZAS LA QUE CORRESPONDE",
+    "descripcion_completa": "ESTE CURSO ESTA ORIENTADO PARA ALUMNOS QUE ASPIREN TRABAJAR EN LA INDUSTRIA EN BASE DE SUS CONOCIMIENTOS DE MANEJO DE HERRAMIENTAS , TÉCNICAS DE TRAZADO - CORTE Y SUS CONOCIMIENTOS BÁSICOS DE SOLDADURA,",
+    "actividades": "1- CONOCIMIENTO BÁSICO DE INTERPRETACIÓN DE PLANO. 2-TECNICA DE TRAZADO Y CORTE 3- PROCEDIMIENTO Y TÉCNICA DE ARMADO DE PIEZAS 4- TÉCNICA DE MANEJO DE HERRAMIENTAS ( AMOLADORA - TALADRO - SOLDADORA) 5- TECNICA PARA REALIZAR SOLDADURA ( POR PUNTO , POR CORDÓN Y CORDONES CONTINUO) 6 - SE REALIZA IDENTIFICACIÓN Y EVALUACIÓN DE TODO LOS RIESGOS DE SEGURIDAD CON LAS DIFERENTES MÁQUINAS ELECTRÓNICAS UTILIZADAS",
+    "duracion_total": "3 mes",
+    "fecha_inicio": "2026-04-09",
+    "fecha_inicio_legible": "9 de abril",
+    "fecha_fin": "2026-06-26",
+    "fecha_fin_legible": "26 de junio",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Jueves de 14:00 a 17:00",
+      "Viernes de 14:00 a 17:00"
+    ],
+    "localidades": [
+      "Aguas Calientes"
+    ],
+    "direcciones": [
+      "A informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "ROPA DE GRAFA",
+        "GUANTES DE SEGURIDAD Y LENTES TRANSPARENTE DE SEGURIDAD"
+      ],
+      "entrega_curso": [
+        "HERRAMIENTAS MANUALES PARA PRACTICA EN CLASE"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSe35Tim6_d2im_mfXV5cRTuHBuwWac2d5DtVMzbYnXvPHHEgg/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774458410024_df1c179f5fa5.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "14764296-cf1559",
+    "slug": "construccion-en-seco-aguas-calientes",
+    "titulo": "Construcción en Seco – Aguas Calientes",
+    "descripcion_breve": "Manipulación de herramientas y materiales, Calculo de materiales a utilizar con las normas de Seguridad, para realizar trabajos de Construcción en Seco",
+    "descripcion_completa": "En el curso se verá Teoría básica de Normas de Seguridad, conocer las herramientas de trabajo aprendiendo a usarlas correctamente a su vez se manipularan los materiales diferenciándose los que son para Tabiques y los que se usan para Cielo Razo. • Este curso está dirigido a todas las personas mayores de edad sin importar el género, mientras quieran aprender ya sea para insertarse en el campo laboral o para trabajos particulares…",
+    "actividades": "Estudiaremos brevemente las normas de Seguridad y calcularemos los materiales necesarios para la obra. Se realizaran trabajos prácticos en maquetas y obras reales.. Y se tomarán pruebas escritas y prácticas",
+    "duracion_total": "2 mes",
+    "fecha_inicio": "2026-04-08",
+    "fecha_inicio_legible": "8 de abril",
+    "fecha_fin": "2026-05-29",
+    "fecha_fin_legible": "29 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Miércoles de 18.30 a 21:30",
+      "Viernes de 18.30 21:30"
+    ],
+    "localidades": [
+      "Aguas Calientes"
+    ],
+    "direcciones": [
+      "C.I.C"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "CUADERNO Y LAPICERA",
+        "MARCADOR TRAZO GRUESO",
+        "TRINCHETA",
+        "CINTA MÉTRICA",
+        "TALADRO ELÉCTRICO",
+        "BROCA DE WIDIA N 8",
+        "TIZA",
+        "PUNTA PHILIP PH2",
+        "ESPÁTULAS DE 4 Y 10 PULGADAS"
+      ],
+      "entrega_curso": [
+        "COORDINAR LOS MATERIALES PARA PRACTICAS :PERFILES PARA TABIQUES",
+        "TORNILLOS",
+        "PLACAS DE YESO",
+        "MASILLAS",
+        "CINTAS MICROPERFORADA"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeqiCGMW1T5I2pDI9ImQ35fSakTUbiqxmIspPF_g0HJOvjYdQ/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774458578265_967bdba73048.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "3c2b3ab2-695f5e",
+    "slug": "construccion-en-seco-puesto-viejo",
+    "titulo": "Construcción en Seco – Puesto Viejo",
+    "descripcion_breve": "Manipulación de herramientas y materiales, Calculo de materiales a utilizar con las normas de Seguridad, para realizar trabajos de Construcción en Seco",
+    "descripcion_completa": "En el curso se verá Teoría básica de Normas de Seguridad, conocer las herramientas de trabajo aprendiendo a usarlas correctamente a su vez se manipularan los materiales diferenciándose los que son para Tabiques y los que se usan para Cielo Razo. • Este curso está dirigido a todas las personas mayores de edad sin importar el género, mientras quieran aprender ya sea para insertarse en el campo laboral o para trabajos particulares…",
+    "actividades": "Estudiaremos brevemente las normas de Seguridad y calcularemos los materiales necesarios para la obra. Se realizaran trabajos prácticos en maquetas y obras reales.. Y se tomarán pruebas escritas y prácticas",
+    "duracion_total": "2 mes",
+    "fecha_inicio": "2026-04-08",
+    "fecha_inicio_legible": "8 de abril",
+    "fecha_fin": "2026-05-29",
+    "fecha_fin_legible": "29 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Miércoles de 15.00 a 18.00 horas",
+      "Viernes de 15.00 a 18.00 horas"
+    ],
+    "localidades": [
+      "Puesto Viejo"
+    ],
+    "direcciones": [
+      "A informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "CUADERNO Y LAPICERA",
+        "MARCADOR TRAZO GRUESO",
+        "TRINCHETA",
+        "CINTA MÉTRICA",
+        "TALADRO ELÉCTRICO",
+        "BROCA DE WIDIA N 8",
+        "TIZA",
+        "PUNTA PHILIP PH2",
+        "ESPÁTULAS DE 4 Y 10 PULGADAS"
+      ],
+      "entrega_curso": [
+        "COORDINAR PARA PRACTICA:. PERFILES PARA TABIQUES",
+        "TORNILLOS",
+        "PLACAS DE YESO",
+        "MASILLAS",
+        "CINTAS MICROPERFORADA"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdRaU7Ab478oF_tPWt7xCxPiXZs1bdVCvO2Fdzb5DdRrYzaFA/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774458682901_1970f400c0aa.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "a635dfe3-fbdf55",
+    "slug": "soldadura-basica-y-manejo-de-herramientas-electricas-puesto-viejo",
+    "titulo": "Soldadura Básica y Manejo de Herramientas Eléctricas – Puesto Viejo",
+    "descripcion_breve": "CAPACITAR AL ALUMNO INTENSAMENTE PARA QUE REALICE UNIONES PERMANENTE DE PIEZAS METÁLICAS, UTILIZANDO TÉCNICAS DE TRAZADO, CORTES , Y POSICIONES DE PIEZAS LA QUE CORRESPONDE",
+    "descripcion_completa": "ESTE CURSO ESTA ORIENTADO PARA ALUMNOS QUE ASPIREN TRABAJAR EN LA INDUSTRIA EN BASE DE SUS CONOCIMIENTOS DE MANEJO DE HERRAMIENTAS , TÉCNICAS DE TRAZADO - CORTE Y SUS CONOCIMIENTOS BÁSICOS DE SOLDADURA,",
+    "actividades": "1- CONOCIMIENTO BÁSICO DE INTERPRETACIÓN DE PLANO. 2-TECNICA DE TRAZADO Y CORTE 3- PROCEDIMIENTO Y TÉCNICA DE ARMADO DE PIEZAS 4- TÉCNICA DE MANEJO DE HERRAMIENTAS ( AMOLADORA - TALADRO - SOLDADORA) 5- TECNICA PARA REALIZAR SOLDADURA ( POR PUNTO , POR CORDÓN Y CORDONES CONTINUO) 6 - SE REALIZA IDENTIFICACIÓN Y EVALUACIÓN DE TODO LOS RIESGOS DE SEGURIDAD CON LAS DIFERENTES MÁQUINAS ELECTRÓNICAS UTILIZADAS",
+    "duracion_total": "3 mes",
+    "fecha_inicio": "2026-04-09",
+    "fecha_inicio_legible": "9 de abril",
+    "fecha_fin": "2026-06-26",
+    "fecha_fin_legible": "26 de junio",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Jueves de 18:00 a 21:00",
+      "Viernes de 18:00 a 21:00"
+    ],
+    "localidades": [
+      "Puesto Viejo"
+    ],
+    "direcciones": [
+      "A informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "ROPA DE GRAFA",
+        "GUANTES DE SEGURIDAD Y LENTES TRANSPARENTE DE SEGURIDAD"
+      ],
+      "entrega_curso": [
+        "HERRAMIENTAS MANUALES PARA PRACTICA EN CLASE"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdvjrXvuCASByfP5VtGtSUE9LluZt4zw2nUghQ0LZQHFC9iYg/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774459421910_11243e06bc4c.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "b81e64d2-7f7b5f",
+    "slug": "operador-de-maquina-pesada-perico",
+    "titulo": "Operador de Máquina Pesada – Perico",
+    "descripcion_breve": "Capacitación para poder desempeñarse como operador en maquinas pesadas",
+    "descripcion_completa": "El curso está dirigido al público en general que quiera desempeñarse como operador e máquinas pesada. En el mismo se va aprender principalmente a operar, mantener y trabajar con equipos grandes usados en construcción, minería y obras viales. Siempre considerando las normas de seguridad.",
+    "actividades": "El curso será teórico práctico una vez vista la teoría se procede a materializar lo teórico que consiste en: Mantenimiento básico, revisar los fluidos de la máquina, detectar fallas comunes y el cuidado general de la máquina. Técnicas de trabajo que consiste en movimiento de tierras, nivelación de terrenos, excavación y carga de materiales",
+    "duracion_total": "2 mes",
+    "fecha_inicio": "2026-04-06",
+    "fecha_inicio_legible": "6 de abril",
+    "fecha_fin": "2026-05-26",
+    "fecha_fin_legible": "26 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Lunes 14:00 a 18:00",
+      "Martes de 08:00 a 12:00"
+    ],
+    "localidades": [
+      "Perico"
+    ],
+    "direcciones": [
+      "A informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": true,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicera",
+        "Elementos de protección personal"
+      ],
+      "entrega_curso": [
+        "Material en PDF"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdHPU3Vi2XJlpuaixarggkfWk6ijHIMY-1x_xP7hZvmHCQh_A/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774459708072_aec206c29aee.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "260935b4-cf845a",
+    "slug": "sublimacion-artesanal-el-carmen",
+    "titulo": "Sublimación Artesanal – El Carmen",
+    "descripcion_breve": "Vas a poder aprender a sublimar prendas en distintos tipos de telas desde tu casa usando solo una plancha común",
+    "descripcion_completa": "Este curso ofrece una capacitación práctica y accesible en técnicas de impresión textil enfocada en la sublimación casera aprenderás como tiene que ser la imprecion y que papel tienes que usar para poder hacer tus diseños.",
+    "actividades": "Prácticas en diferentes cortes de telas. Aprenderás a usar la plancha controlando el tiempo y temperatura según la tela que desees sublimar. El uso del papel especial según la tela que desees sublimar",
+    "duracion_total": "En 2 meses",
+    "fecha_inicio": "2026-03-30",
+    "fecha_inicio_legible": "30 de marzo",
+    "fecha_fin": "2026-05-26",
+    "fecha_fin_legible": "26 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [],
+    "localidades": [
+      "El Carmen"
+    ],
+    "direcciones": [
+      "A confirmar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicero",
+        "Tijera",
+        "Plancha de casa",
+        "Papel especial para sublimar",
+        "Cinta térmica",
+        "Retazo de telas de colores claros y oscuros"
+      ],
+      "entrega_curso": [
+        "No se entrega ningun material"
+      ]
+    },
+    "formulario": "",
+    "imagen": "/uploads/cursos/curso_1774459829825_ec824199e27c.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "https://docs.google.com/forms/d/e/1FAIpQLSdMQzehOSPilocuzZUN6GaWOj2UbIOvbHPo9A9wkwbpGjzlvg/viewform?usp=dialog",
+    "cupos": 25
+  },
+  {
+    "id": "e011243e-f33153",
+    "slug": "construccion-en-seco-el-carmen",
+    "titulo": "Construcción en Seco – El Carmen",
+    "descripcion_breve": "Formación intensiva para trabajar cono instalador de construcción en seco como : división , cielo raso, diseños, revestimiento.presupuetos.",
+    "descripcion_completa": "El curso está dirigido a jóvenes y adultos que quieran trabajar con instaladores de la construcción en seco. Se abordará temas . Conocimiento de los materiales y maquinarias .preparación de la obra .armado de las estructuras . Distintos tipos de diseño. Elaboración de presupuesto.",
+    "actividades": "Manejo adecuado de las máquinas. Conocimiento de marcas de las herramientas y materiales.maniobar de en masillado y terminación. Limpieza y mantenimiento de las herramientas.",
+    "duracion_total": "2 mes",
+    "fecha_inicio": "",
+    "fecha_inicio_legible": "",
+    "fecha_fin": "",
+    "fecha_fin_legible": "",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [],
+    "localidades": [
+      "El Carmen"
+    ],
+    "direcciones": [
+      "A informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapiceras",
+        "Ropa cómoda",
+        "Ruleta",
+        "Lapis cartinpero"
+      ],
+      "entrega_curso": [
+        "Material digital complmentario"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScHAPpuq_Vo709-XTEPy1hS1_Zlt7jvp9f-LB5OH6-qPYB_YA/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774460122762_01202fede2be.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "131a9587-039b52",
+    "slug": "panaderia-y-pasteleria-basica-el-carmen",
+    "titulo": "Panadería y Pastelería Básica – El Carmen",
+    "descripcion_breve": "ES UN PROYECTO QUE PERMITE FORMAR EN HABILIDADES EN EL AREA DE LA PANADERIA Y PASTELERIA BASICA, DONDE SE ABORDARA RECETAS CLASICAS: PAN FRANCE, PANES INTEGRALES, MASAS QUEBRADAS, BATIDOS LIVIANOS Y PESADOS",
+    "descripcion_completa": "CON ESTE PROYECTO SE BUSCA QUE EL ALUMNO PUEDA VER LA VARIEDAD DE PANES Y LAS FORMAS DE TRABAJAR EN LA PREPARACIONES DE LAS MASA, FERMENTADO, ARMADO Y HORNEADO DE LAS PIEZAS. EN LA PASTELERIA TRABAJAMOS TECNICAS BASICA PARA INICIARSE EN LA ELABORACION DE PRODUCTOS DULCES.",
+    "actividades": "SE VA A TRABAJAR CON TEORIA Y PRACTICA, TRABAJANDO LOS PRECEDIMIENTOS DE LA PANADERIA, TECNICAS DE AMASADO, FORMADO DE LAS PIEZAS, HORNEADO. EN PASTELERIA TECNICAS DE MASAS QUEBRADAS, BATIDOS LIVIANOS, PESADOS. SE EVALUARÁ EL TRABAJO INDIVIDUAL, EL PROCEDIMIENTO Y LA FORMA DE TRABAJAR DE CADA ALUMNO.",
+    "duracion_total": "8 SEMANAS (16 ENCUENTROS)",
+    "fecha_inicio": "2026-04-07",
+    "fecha_inicio_legible": "7 de abril",
+    "fecha_fin": "2026-05-30",
+    "fecha_fin_legible": "30 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Martes DE 16:30 A 19:30",
+      "Sábado DE 9:00 A 12;00"
+    ],
+    "localidades": [
+      "El Carmen"
+    ],
+    "direcciones": [
+      "Cáritas"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "DEBEN DE TRAER LOS INGREDIENTES DE LAS RECETAS QUE SE VA A TRABAJAR",
+        "LOS MATERIALES: BOLW MEDIANOS PARA PREPARA LAS MASAS",
+        "CUBIERTOS",
+        "UN BOLW CHICO PARA PREPARA EL FERMENTO",
+        "REPASADOR",
+        "PALOTE",
+        "BOLSAS PARA TAPAR LAS MASAS",
+        "LAS RECETAS IMPRESAS",
+        "BANDEJAS PARA HORNEAR. A MEDIDA QUE VAYAMOS TRABAJANDO CON LAS RECETAS",
+        "SE LES IRA PIDIENDO OTROS MATERIALES."
+      ],
+      "entrega_curso": [
+        "LA INSTALACION",
+        "MESAS PARA TRABAJAR",
+        "SILLAS PARA DEJAR SUS COSAS",
+        "LAVADERO PARA LAVAR LOS UTENSILLOS",
+        "EL HORNO PARA HORNEAR. MATERIAL DIGITAL COMPLEMENTARIO."
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeizvWFahFIlklX5MRNf4xobDUJsOZm5KnBQT7NoVJuYQeD1Q/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774460433528_3116c7214ca6.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "83b93c54-022957",
+    "slug": "soldadura-basica-la-esperanza",
+    "titulo": "Soldadura Básica – La Esperanza",
+    "descripcion_breve": "Formación intensiva en soldadura básica: principios teóricos, normas de seguridad, manejo de herramientas, técnicas de unión de metales y control de calidad para insertarse laboralmente o desarrollar proyectos personales.",
+    "descripcion_completa": "El curso está orientado a principiantes sin experiencia previa, mayores de 18 años con estudios primarios completos, que busquen insertarse laboralmente en el sector metalúrgico, agroindustrial o en talleres de mantenimiento, así como a quienes deseen desarrollar habilidades para proyectos personales. Se abordarán los principios fundamentales de la soldadura, normas de seguridad en el taller, manejo de equipos de protección personal y herramientas específicas, técnicas de preparación de piezas, ejecución de cordones de soldadura en metales comunes, identificación y corrección de defectos, y se aplicarán todos los conocimientos en un proyecto final práctico.",
+    "actividades": "Clases teóricas sobre normas de seguridad y principios de la soldadura. Manejo y mantenimiento de equipo de protección personal y herramientas. Preparación de superficies y sujeción de piezas metálicas. Prácticas de ejecución de cordones de soldadura en diferentes posiciones. Identificación y corrección de defectos comunes en soldaduras. Inspección visual y control básico de calidad. Elaboración de un proyecto final integrando todas las habilidades adquiridas.",
+    "duracion_total": "2 mes",
+    "fecha_inicio": "2026-04-06",
+    "fecha_inicio_legible": "6 de abril",
+    "fecha_fin": "2026-05-26",
+    "fecha_fin_legible": "26 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Lunes de 18:00 a 21:00",
+      "Martes de 18:00 a 21:00"
+    ],
+    "localidades": [
+      "La Esperanza"
+    ],
+    "direcciones": [
+      "A informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicera",
+        "Regla o escuadra",
+        "Carpeta (opcional)"
+      ],
+      "entrega_curso": [
+        "Careta de soldadura",
+        "Guantes de protección",
+        "Delantal resistente",
+        "Material de soldadura (electrodos, alambre, etc.)",
+        "Metales para prácticas",
+        "Herramientas de corte y preparación (prestadas durante clases)"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSczVHYvSZalvI8jMNfFWNLFzeZyd-knOBiZJ1c6oG0jQHbkrw/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774460646342_727bc02d6358.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "89e40842-c5e057",
+    "slug": "sublimacion-artesanal-rodeito",
+    "titulo": "Sublimación Artesanal – Rodeito",
+    "descripcion_breve": "Vas a poder aprender a sublimar prendas en distintos tipos de telas desde tu casa usando solo una plancha común",
+    "descripcion_completa": "Este curso ofrece una capacitación práctica y accesible en técnicas de impresión textil enfocada en la sublimación casera aprenderás como tiene que ser la imprecion y que papel tienes que usar para poder hacer tus diseños.",
+    "actividades": "Prácticas en diferentes cortes de telas. Aprenderás a usar la plancha controlando el tiempo y temperatura según la tela que desees sublimar. El uso del papel especial según la tela que desees sublimar",
+    "duracion_total": "2 meses",
+    "fecha_inicio": "2026-04-06",
+    "fecha_inicio_legible": "6 de abril",
+    "fecha_fin": "2026-05-26",
+    "fecha_fin_legible": "26 de mayo",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Lunes 10:00 a 13:00"
+    ],
+    "localidades": [
+      "Rodeito"
+    ],
+    "direcciones": [
+      "Comedor - Rodeito"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicero",
+        "Tijera",
+        "Plancha de casa",
+        "Papel especial para sublimar",
+        "Cinta térmica",
+        "Retazo de telas de colores claros y oscuros"
+      ],
+      "entrega_curso": [
+        "No se entrega ningun material"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdhjOPhFStR2XAw6bRXBFt66v8iUsx6z8pCZZQ6NHLi_CNbKQ/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774460809645_d085883f8a88.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "e20e2bc5-631658",
+    "slug": "corseteria-y-vestido-de-fiesta-alta-costura-rodeito",
+    "titulo": "Corsetería y Vestido de Fiesta Alta Costura – Rodeito",
+    "descripcion_breve": "La alta costura y la corsetería representa la cumbre en el diseño .. exigiendo un conocimiento en costura y molderia .",
+    "descripcion_completa": "Este curso es muy específico x la calidad del diseño y la elegancia de sus prendas .. Calidad de bordados en pedrería . Y aplicaciones. La alumna .. La alumna realizará vestidos únicos para fiestas , casamiento y diferentes eventos de categoría .. Deben tener conocimiento en molderia básica .",
+    "actividades": "Toma de medidas . Armado y molde de corpiño básico . Técnica de costura . Colocado de ballenas Corset medio pintado a mano Corset completo bordado con pedrería Corset transparente Corset arrugados Faldón de la pollera de gala Faldón de vestido con cola Vestido 15 años",
+    "duracion_total": "3 meses",
+    "fecha_inicio": "2026-04-06",
+    "fecha_inicio_legible": "6 de abril",
+    "fecha_fin": "2026-06-29",
+    "fecha_fin_legible": "29 de junio",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Lunes de 10:00 a 13:00"
+    ],
+    "localidades": [
+      "Rodeito"
+    ],
+    "direcciones": [
+      "Centro de Jubilados - Rodeito"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Carpeta",
+        "Regla",
+        "Cinta métrica",
+        "Lapicera",
+        "Lápiz",
+        "Telas",
+        "Papel madera",
+        "Alfileres cabeza de vidrio"
+      ],
+      "entrega_curso": [
+        "Molderia y patrones"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSd9NWYGCeCxVFGL-8-zVLtdxEMi4RHgfftYi6bkCEsNsXoPug/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774461029744_a542df3e7e8e.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "3bdaf1f4-005c5d",
+    "slug": "confeccion-de-ropa-tradicional-gauchesca-santa-clara",
+    "titulo": "Confección de Ropa Tradicional Gauchesca – Santa Clara",
+    "descripcion_breve": "Jujuy es una provincia muy tradicionalista y contienen mucha demanda de la ropa tradicional GAUCHESCA.",
+    "descripcion_completa": "Por la gran demanda que se da x la ropa tradicional GAUCHESCA y muy poco la elaboración. Veo una gran salida laboral para capacitar a los alumnos y puedan tener su produccion para la venta o alquiler en fiesta patrias.",
+    "actividades": "El alumna aprenderá desde cero . Sacado de medidas , armado de molderia y patronaje . Bombachin Bombacha Falda pantalón dama GAUCHESCA Pollera semi plata Pollera plata Pollera doble plata Blusas Camisa Chaleco chaqueta Pañuelos Vestido de paisana Bordados tradicionales Panel de abeja .",
+    "duracion_total": "2meses",
+    "fecha_inicio": "2026-03-23",
+    "fecha_inicio_legible": "23 de marzo",
+    "fecha_fin": "2026-05-25",
+    "fecha_fin_legible": "25 de mayo",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Lunes 14:00 a 17:00"
+    ],
+    "localidades": [
+      "Santa Clara"
+    ],
+    "direcciones": [
+      "A informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Carpeta",
+        "Lapicera",
+        "Lápiz",
+        "Regla",
+        "Cinta métrica",
+        "Alfileres",
+        "Papel madera",
+        "Tijera para tela",
+        "Tijera para papel",
+        "Tisa para tela",
+        "Telas"
+      ],
+      "entrega_curso": [
+        "Molderia y patrones",
+        "Elementos digitales"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfupPP2EPI23y_P-xhnsFqUqkfAYFuf2MSuVVfLbI9mcEF6lw/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774461307118_b98830bb249d.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 50
+  },
+  {
+    "id": "64c3f6ed-34aa5d",
+    "slug": "sublimacion-artesanal-santa-clara",
+    "titulo": "Sublimación Artesanal – Santa Clara",
+    "descripcion_breve": "Vas a poder aprender a sublimar prendas en distintos tipos de telas desde tu casa usando solo una plancha común",
+    "descripcion_completa": "Este curso ofrece una capacitación práctica y accesible en técnicas de impresión textil enfocada en la sublimación casera aprenderás como tiene que ser la imprecion y que papel tienes que usar para poder hacer tus diseños.",
+    "actividades": "Prácticas en diferentes cortes de telas. Aprenderás a usar la plancha controlando el tiempo y temperatura según la tela que desees sublimar. El uso del papel especial según la tela que desees sublimar",
+    "duracion_total": "2 meses",
+    "fecha_inicio": "2026-04-06",
+    "fecha_inicio_legible": "6 de abril",
+    "fecha_fin": "2026-05-26",
+    "fecha_fin_legible": "26 de mayo",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Lunes 14:00 a 17:00"
+    ],
+    "localidades": [
+      "Santa Clara"
+    ],
+    "direcciones": [
+      "A confirmar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicero",
+        "Tijera",
+        "Plancha de casa",
+        "Papel especial para sublimar",
+        "Cinta térmica",
+        "Retazo de telas de colores claros y oscuros"
+      ],
+      "entrega_curso": [
+        "No se entrega ningun material"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScnT5yR8TACKFGQVv3OQfkInjk4OOYVPOiNJDSj0RoQRoO03w/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774461472538_944524204bd1.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
   }
 ]
