@@ -22,13 +22,6 @@ const OpenAI = require("openai");
 const { Client, MessageMedia, LocalAuth } = require("whatsapp-web.js");
 
 /*──────────────────────────────────────────────────────────────────────
- 0) Modo pre-lanzamiento
-──────────────────────────────────────────────────────────────────────*/
-const PRELAUNCH_MODE = true;
-const PRELAUNCH_MESSAGE =
-  "Los cursos estarán disponibles para su inscripción mañana, miércoles 25 de marzo, a las 8:00 de la mañana.";
-
-/*──────────────────────────────────────────────────────────────────────
  1) Express + Socket.IO
 ──────────────────────────────────────────────────────────────────────*/
 const port = process.env.PORT || 8000;
@@ -44,7 +37,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/health", (_req, res) => {
-  res.json({ ok: true, prelaunch: PRELAUNCH_MODE });
+  res.json({ ok: true });
 });
 
 /*──────────────────────────────────────────────────────────────────────
@@ -219,40 +212,34 @@ const phoneNumberFormatter = (number) => {
 };
 
 /*──────────────────────────────────────────────────────────────────────
- 4) Cargar cursos (2026 con fallback a 2025)
+ 4) Cargar cursos 2026
 ──────────────────────────────────────────────────────────────────────*/
 let cursos = [];
 let cursosSourceLabel = "2026";
 
 function loadCoursesFile() {
-  const candidates = [
-    { file: path.join(__dirname, "cursos_2026.json"), label: "2026" },
-    { file: path.join(__dirname, "cursos_2025.json"), label: "2025" },
-  ];
+  const file = path.join(__dirname, "cursos_2026.json");
 
-  for (const candidate of candidates) {
-    try {
-      if (!fs.existsSync(candidate.file)) continue;
-
-      const raw = fs.readFileSync(candidate.file, "utf-8");
-      const parsed = JSON.parse(raw);
-
-      if (!Array.isArray(parsed)) {
-        throw new Error(`JSON raíz no es array en ${path.basename(candidate.file)}`);
-      }
-
-      cursos = parsed.map(pickCourse);
-      cursosSourceLabel = candidate.label;
-      console.log(`✔️ Cursos ${candidate.label} cargados: ${cursos.length}`);
-      return;
-    } catch (e) {
-      console.warn(`⚠️ No se pudo cargar ${path.basename(candidate.file)}:`, e.message);
+  try {
+    if (!fs.existsSync(file)) {
+      throw new Error("No se encontró cursos_2026.json");
     }
-  }
 
-  cursos = [];
-  cursosSourceLabel = "2026";
-  console.warn("⚠️ No se encontró ni cursos_2026.json ni cursos_2025.json");
+    const raw = fs.readFileSync(file, "utf-8");
+    const parsed = JSON.parse(raw);
+
+    if (!Array.isArray(parsed)) {
+      throw new Error("El JSON raíz no es un array en cursos_2026.json");
+    }
+
+    cursos = parsed.map(pickCourse);
+    cursosSourceLabel = "2026";
+    console.log(`✔️ Cursos 2026 cargados: ${cursos.length}`);
+  } catch (e) {
+    cursos = [];
+    cursosSourceLabel = "2026";
+    console.error("❌ Error cargando cursos_2026.json:", e.message);
+  }
 }
 
 loadCoursesFile();
@@ -271,19 +258,6 @@ if (contextoCursos.length > MAX_CONTEXT_CHARS) {
 const systemPrompt = `
 Eres "Camila", asistente del Ministerio de Trabajo de Jujuy. Respondes SÓLO con la información disponible de los cursos 2026. No inventes.
 NUNCA menciones “JSON”, “base de datos” ni fuentes internas en tus respuestas al usuario.
-
-BLOQUE PRIORITARIO — LANZAMIENTO DE INSCRIPCIONES 2026 (PRIORIDAD MÁXIMA)
-- Mientras esta regla esté activa, ante cualquier consulta relacionada con cursos 2026, inscripción, fechas, sedes, requisitos, recomendaciones, disponibilidad, nuevos cursos, link de inscripción, web o más información, responde SOLO con esta frase exacta:
-  "Los cursos estarán disponibles para su inscripción mañana, miércoles 25 de marzo, a las 8:00 de la mañana."
-- No listes cursos.
-- No recomiendes cursos.
-- No entregues links.
-- No des fechas distintas.
-- No menciones redes sociales.
-- No menciones febrero.
-- Si preguntan por un curso específico, responde exactamente la misma frase.
-- Si insisten o repreguntan, repite exactamente la misma frase.
-- Esta regla prevalece sobre cualquier otra instrucción del prompt.
 
 POLÍTICA GENERAL — Gratuidad y +18 (PRIORIDAD ALTA)
 - Todos los cursos son GRATUITOS.
@@ -517,7 +491,6 @@ client.on("message", async (msg) => {
   const userMessage = userMessageRaw.trim();
   if (!userMessage) return;
 
-  // comandos de prueba
   if (userMessage === "!ping") {
     await client.sendMessage(msg.from, "pong", { sendSeen: false });
     return;
@@ -534,17 +507,6 @@ client.on("message", async (msg) => {
   if (!state) {
     state = { history: [], lastSuggestedCourse: null };
     sessions.set(chatId, state);
-  }
-
-  // 🔒 MODO PRE-LANZAMIENTO: responde SIEMPRE lo mismo y evita fugas por historial/link previo
-  if (PRELAUNCH_MODE) {
-    state.lastSuggestedCourse = null;
-    state.history.push({ role: "user", content: clamp(sanitize(userMessage)) });
-    state.history.push({ role: "assistant", content: clamp(PRELAUNCH_MESSAGE) });
-    state.history = state.history.slice(-6);
-
-    await client.sendMessage(msg.from, PRELAUNCH_MESSAGE, { sendSeen: false });
-    return;
   }
 
   if (!openai) {
@@ -668,7 +630,6 @@ const checkRegisteredNumber = async (number) => {
   return client.isRegisteredUser(number);
 };
 
-// enviar mensaje
 app.post(
   "/send-message",
   [body("number").notEmpty(), body("message").notEmpty()],
@@ -695,7 +656,6 @@ app.post(
   }
 );
 
-// enviar media desde URL
 app.post("/send-media", async (req, res) => {
   try {
     const number = phoneNumberFormatter(req.body.number);
@@ -726,13 +686,11 @@ app.post("/send-media", async (req, res) => {
   }
 });
 
-// buscar grupo por nombre
 const findGroupByName = async (name) => {
   const chats = await client.getChats();
   return chats.find((chat) => chat.isGroup && chat.name.toLowerCase() === String(name).toLowerCase());
 };
 
-// enviar a grupo
 app.post(
   "/send-group-message",
   [
@@ -774,7 +732,6 @@ app.post(
   }
 );
 
-// limpiar mensajes
 app.post("/clear-message", [body("number").notEmpty()], async (req, res) => {
   const errors = validationResult(req).formatWith(({ msg }) => msg);
   if (!errors.isEmpty()) {
