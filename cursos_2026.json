@@ -675,7 +675,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfNY_a35ag077RVMjuIvPGwbqunFmGykMFkj5GTrViHhG258g/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774419204416_d64be06ce9a5.webp",
-    "estado": "ultimos_cupos",
+    "estado": "inscripcion_abierta",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -832,7 +832,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScH3AWbm_LaUnGNppcfrG-FOqh_AeImRGECT1W0Pp_3w-Fdig/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774456224325_31bb531a3683.webp",
-    "estado": "cupo_completo",
+    "estado": "inscripcion_abierta",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -881,7 +881,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScimkmA8Ea3I1sq9zpiHjVsdA5Q64fgpGCl7u_Bh5R7Zzr3rA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774456386295_f0d471084ae8.webp",
-    "estado": "cupo_completo",
+    "estado": "inscripcion_abierta",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -931,7 +931,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdK12ijSVTXJMeqz3-_E2hckxHAzw0FE-TDtdKlEbkJMjub5Q/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774456497368_252e5e9dbba3.webp",
-    "estado": "cupo_completo",
+    "estado": "inscripcion_abierta",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -995,7 +995,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScD_YibWczfjvUAe8PEbBKR2nt0JIxE7Bu3pFIuIVOhGiZgpw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774456762405_743e749638a6.webp",
-    "estado": "ultimos_cupos",
+    "estado": "inscripcion_abierta",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -1594,7 +1594,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdHPU3Vi2XJlpuaixarggkfWk6ijHIMY-1x_xP7hZvmHCQh_A/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774459708072_aec206c29aee.webp",
-    "estado": "cupo_completo",
+    "estado": "inscripcion_abierta",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -1694,7 +1694,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScHAPpuq_Vo709-XTEPy1hS1_Zlt7jvp9f-LB5OH6-qPYB_YA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774460122762_01202fede2be.webp",
-    "estado": "cupo_completo",
+    "estado": "inscripcion_abierta",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -1755,7 +1755,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeizvWFahFIlklX5MRNf4xobDUJsOZm5KnBQT7NoVJuYQeD1Q/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774460433528_3116c7214ca6.webp",
-    "estado": "cupo_completo",
+    "estado": "inscripcion_abierta",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -1979,7 +1979,7 @@
     "estado": "inscripcion_abierta",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
-    "cupos": 50
+    "cupos": 25
   },
   {
     "id": "64c3f6ed-34aa5d",
@@ -2031,6 +2031,422 @@
     "imagen": "/uploads/cursos/curso_1774461472538_944524204bd1.webp",
     "estado": "inscripcion_abierta",
     "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "5a2febf9-c1bf57",
+    "slug": "instalacion-reparacion-y-mantenimiento-de-termotanques-solares-san-pedro-de-jujuy",
+    "titulo": "Instalación, Reparación y Mantenimiento de Termotanques Solares – San Pedro de Jujuy",
+    "descripcion_breve": "Formate para trabajar con termotanques solares domiciliarios. Aprendé a instalar, diagnosticar fallas y realizar mantenimiento preventivo y correctivo, con enfoque técnico y salida laboral.",
+    "descripcion_completa": "Este curso brinda los conocimientos necesarios para instalar, reparar y mantener termotanques solares utilizados en viviendas, promoviendo el uso eficiente de la energía térmica solar. Se abordan los principios de funcionamiento de los sistemas termosifónicos y presurizados, componentes principales, criterios de instalación según ubicación y demanda, y técnicas de diagnóstico de fallas frecuentes. Además, se incorporan contenidos sobre seguridad, normativa vigente y buenas prácticas de mantenimiento preventivo y correctivo. Está dirigido a personas interesadas en insertarse laboralmente en el sector de las energías renovables, técnicos/as instaladores/as, estudiantes de formación técnica y emprendedores/as que deseen ofrecer soluciones térmicas sostenibles. No se requieren conocimientos previos avanzados. La propuesta combina teoría y práctica, con actividades aplicadas que permiten desarrollar competencias técnicas adaptadas al contexto local y con impacto social y ambiental",
+    "actividades": "Durante el curso se realizarán actividades teóricas y prácticas que incluyen el análisis de funcionamiento de termotanques solares, identificación de componentes, lectura de esquemas y criterios de instalación según orientación, inclinación y caudal. Se trabajará con guías técnicas, simulaciones de montaje, conexión hidráulica y estructural, y verificación de funcionamiento. En la parte práctica se desarrollarán ejercicios de diagnóstico de fallas comunes (pérdidas, obstrucciones, problemas de circulación), aplicación de protocolos de mantenimiento preventivo, limpieza de colectores, revisión de válvulas y control de temperatura. Se utilizarán checklists, planillas editables y recursos audiovisuales para reforzar el aprendizaje.Tambien se promovera el trabajo colaborativo en propuestas de instalacion adaptadas a distintas realidades habitacionales.-",
+    "duracion_total": "3 meses",
+    "fecha_inicio": "2026-04-08",
+    "fecha_inicio_legible": "8 de abril",
+    "fecha_fin": "2026-06-24",
+    "fecha_fin_legible": "24 de junio",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [
+      4
+    ],
+    "dias_horarios": [
+      "Miércoles de 18:00 a 22:00"
+    ],
+    "localidades": [
+      "San Pedro de Jujuy"
+    ],
+    "direcciones": [],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [],
+      "entrega_curso": []
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScOUPYvNK5rTUSsPKTtIPvhE1rLyUBV3CQw_uEy4rHKrCYa2w/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774505150548_853102e54f6c.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "c1e92d36-91cdf0",
+    "slug": "dimensionamiento-e-instalacion-de-sistemas-solares-fotovoltaicos-residenciales-san-pedro-de-jujuy",
+    "titulo": "Dimensionamiento e Instalación de Sistemas Solares Fotovoltaicos Residenciales – San Pedro de Jujuy",
+    "descripcion_breve": "Aprendé a diseñar e instalar sistemas solares fotovoltaicos para viviendas, integrando teoría, práctica y normativa vigente. Capacitación con enfoque técnico y salida laboral, adaptada al contexto local.",
+    "descripcion_completa": "El curso de Dimensionamiento e Instalación de Sistemas Solares Fotovoltaicos Residenciales brinda los conocimientos y habilidades necesarios para diseñar, calcular e instalar sistemas solares fotovoltaicos conectados a red o autónomos, con foco en aplicaciones domiciliarias. A lo largo de la capacitación, se abordan los principios de generación fotovoltaica, componentes del sistema, criterios de dimensionamiento según demanda energética, normativas de seguridad eléctrica, y procedimientos técnicos para la instalación, puesta en marcha y mantenimiento básico. Se integran contenidos teóricos con actividades prácticas, simulaciones y análisis de casos reales adaptados al contexto local. Está destinado a personas interesadas en insertarse laboralmente en el sector de las energías renovables, técnicos/as electricistas, instaladores/as, estudiantes de formación técnica, y emprendedores/as que deseen incorporar soluciones solares en su comunidad. No se requieren conocimientos previos avanzados, pero sí compromiso con el aprendizaje técnico aplicado. La propuesta busca fortalecer capacidades con impacto social, ambiental y productivo, promoviendo la transición energética desde una perspectiva local y sostenible.",
+    "actividades": "Durante el curso se realizarán actividades teóricas y prácticas orientadas al aprendizaje aplicado. Se trabajará con guías de estudio, análisis de casos reales y ejercicios de cálculo para el dimensionamiento de sistemas solares fotovoltaicos según demanda energética, ubicación geográfica y tipo de instalación. Se utilizarán planillas editables para estimar potencia requerida, cantidad de paneles, capacidad de baterías y componentes asociados.En la parte práctica, se desarrollarán simulaciones de instalación, armado de estructuras, conexión de paneles, inversores y protecciones eléctricas, respetando normas de seguridad. Se incluirán prácticas de medición con instrumental basico, verificación de funcionamiento y elaboración de checklist técnico. Además, se promoverá el trabajo colaborativo en proyectos grupales, resolución de situaciones problemáticas y elaboración de propuestas de instalación adaptadas al contexto local..",
+    "duracion_total": "3 meses",
+    "fecha_inicio": "2026-04-09",
+    "fecha_inicio_legible": "9 de abril",
+    "fecha_fin": "2026-06-25",
+    "fecha_fin_legible": "25 de junio",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [
+      4
+    ],
+    "dias_horarios": [
+      "Jueves de 18:00 a 22:00"
+    ],
+    "localidades": [
+      "San Pedro de Jujuy"
+    ],
+    "direcciones": [
+      "A Informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Carpeta y lapicera"
+      ],
+      "entrega_curso": []
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSe7JPxSswrdJG1MPTSiTppczGlgYxZOywPAvbwILBoJOIuHug/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774505335390_f4fc6febe5e8.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "e32bb82c-3a894a",
+    "slug": "dimensionamiento-e-instalacion-de-sistemas-solares-fotovoltaicos-residenciales-2-etapa-san-salvador-de-jujuy",
+    "titulo": "Dimensionamiento e Instalación de Sistemas Solares Fotovoltaicos Residenciales 2 Etapa – San Salvador de Jujuy",
+    "descripcion_breve": "Aprendé a diseñar e instalar sistemas solares fotovoltaicos para viviendas, integrando teoría, práctica y normativa vigente. Capacitación con enfoque técnico y salida laboral, adaptada al contexto local.",
+    "descripcion_completa": "El curso de Dimensionamiento e Instalación de Sistemas Solares Fotovoltaicos Residenciales brinda los conocimientos y habilidades necesarios para diseñar, calcular e instalar sistemas solares fotovoltaicos conectados a red o autónomos, con foco en aplicaciones domiciliarias. A lo largo de la capacitación, se abordan los principios de generación fotovoltaica, componentes del sistema, criterios de dimensionamiento según demanda energética, normativas de seguridad eléctrica, y procedimientos técnicos para la instalación, puesta en marcha y mantenimiento básico. Se integran contenidos teóricos con actividades prácticas, simulaciones y análisis de casos reales adaptados al contexto local. Está destinado a personas interesadas en insertarse laboralmente en el sector de las energías renovables, técnicos/as electricistas, instaladores/as, estudiantes de formación técnica, y emprendedores/as que deseen incorporar soluciones solares en su comunidad. No se requieren conocimientos previos avanzados, pero sí compromiso con el aprendizaje técnico aplicado. La propuesta busca fortalecer capacidades con impacto social, ambiental y productivo, promoviendo la transición energética desde una perspectiva local y sostenible.",
+    "actividades": "Durante el curso se realizarán actividades teóricas y prácticas orientadas al aprendizaje aplicado. Se trabajará con guías de estudio, análisis de casos reales y ejercicios de cálculo para el dimensionamiento de sistemas solares fotovoltaicos según demanda energética, ubicación geográfica y tipo de instalación. Se utilizarán planillas editables para estimar potencia requerida, cantidad de paneles, capacidad de baterías y componentes asociados.En la parte práctica, se desarrollarán simulaciones de instalación, armado de estructuras, conexión de paneles, inversores y protecciones eléctricas, respetando normas de seguridad. Se incluirán prácticas de medición con instrumental basico, verificación de funcionamiento y elaboración de checklist técnico. Además, se promoverá el trabajo colaborativo en proyectos grupales, resolución de situaciones problemáticas y elaboración de propuestas de instalación adaptadas al contexto local..",
+    "duracion_total": "2 meses",
+    "fecha_inicio": "2026-04-06",
+    "fecha_inicio_legible": "6 de abril",
+    "fecha_fin": "2026-05-25",
+    "fecha_fin_legible": "25 de mayo",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Lunes de 18:00 a 21:00"
+    ],
+    "localidades": [
+      "San Salvador de Jujuy"
+    ],
+    "direcciones": [
+      "A informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Carpeta y lapicera"
+      ],
+      "entrega_curso": []
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSe9Ri18d2Os59rgQ3sJcb01r7ug-wHkYGHDYlvx4kBXBfdbUg/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774505508039_a8aac1a2f3a0.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "493ae2ed-704dbf",
+    "slug": "instalacion-reparacion-y-mantenimiento-de-termotanques-solares-2-etapa-san-salvador-de-jujuy",
+    "titulo": "Instalación, Reparación y Mantenimiento de Termotanques Solares 2 Etapa – San Salvador de Jujuy",
+    "descripcion_breve": "Formate para trabajar con termotanques solares domiciliarios. Aprendé a instalar, diagnosticar fallas y realizar mantenimiento preventivo y correctivo, con enfoque técnico y salida laboral.",
+    "descripcion_completa": "Este curso brinda los conocimientos necesarios para instalar, reparar y mantener termotanques solares utilizados en viviendas, promoviendo el uso eficiente de la energía térmica solar. Se abordan los principios de funcionamiento de los sistemas termosifónicos y presurizados, componentes principales, criterios de instalación según ubicación y demanda, y técnicas de diagnóstico de fallas frecuentes. Además, se incorporan contenidos sobre seguridad, normativa vigente y buenas prácticas de mantenimiento preventivo y correctivo. Está dirigido a personas interesadas en insertarse laboralmente en el sector de las energías renovables, técnicos/as instaladores/as, estudiantes de formación técnica y emprendedores/as que deseen ofrecer soluciones térmicas sostenibles. No se requieren conocimientos previos avanzados. La propuesta combina teoría y práctica, con actividades aplicadas que permiten desarrollar competencias técnicas adaptadas al contexto local y con impacto social y ambiental",
+    "actividades": "Durante el curso se realizarán actividades teóricas y prácticas que incluyen el análisis de funcionamiento de termotanques solares, identificación de componentes, lectura de esquemas y criterios de instalación según orientación, inclinación y caudal. Se trabajará con guías técnicas, simulaciones de montaje, conexión hidráulica y estructural, y verificación de funcionamiento. En la parte práctica se desarrollarán ejercicios de diagnóstico de fallas comunes (pérdidas, obstrucciones, problemas de circulación), aplicación de protocolos de mantenimiento preventivo, limpieza de colectores, revisión de válvulas y control de temperatura. Se utilizarán checklists, planillas editables y recursos audiovisuales para reforzar el aprendizaje.Tambien se promovera el trabajo colaborativo en propuestas de instalacion adaptadas a distintas realidades habitacionales.-",
+    "duracion_total": "2 meses",
+    "fecha_inicio": "2026-04-07",
+    "fecha_inicio_legible": "7 de abril",
+    "fecha_fin": "2026-05-26",
+    "fecha_fin_legible": "26 de mayo",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Martes de 18:00 a 21:00"
+    ],
+    "localidades": [
+      "San Salvador de Jujuy"
+    ],
+    "direcciones": [
+      "A informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [],
+      "entrega_curso": []
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSefzGB2Al8A95xMhZPCpoPVgHcLUTV5XKd6QGcaa9OCEJE1xg/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774505627962_29cb78915159.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "a8c0caa9-73f6a1",
+    "slug": "reparacion-y-mantenimiento-de-lavarropas-san-salvador-de-jujuy",
+    "titulo": "Reparación y mantenimiento de lavarropas – San Salvador de Jujuy",
+    "descripcion_breve": "Formación práctica en reparación, detectar falla y solucion de problemas en lavarropas",
+    "descripcion_completa": "El curso está dirigido a personas que quieran aprender sobre reparación de lavarropas, fallas y su posible solución, mantenimiento preventivo, correctivo y predictivo. Se abordará teórica con su práctica correspondiente, el principal objetivo es que todo alumno aprenda a reparar y detectar fallas en lavarropas y secarropas. Está dirigido a todo público mayor de 18 años sin limite de edad tanto como masculino y femenino.",
+    "actividades": "Cómo identificar fallas y su posible solución",
+    "duracion_total": "2 mes",
+    "fecha_inicio": "2026-04-06",
+    "fecha_inicio_legible": "6 de abril",
+    "fecha_fin": "2026-05-27",
+    "fecha_fin_legible": "27 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Lunes de 8:00 a 11:00",
+      "Miércoles de 8:00 a 11:00"
+    ],
+    "localidades": [
+      "San Salvador de Jujuy"
+    ],
+    "direcciones": [
+      "A confirmar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno para apuntes",
+        "Herramientas a definir"
+      ],
+      "entrega_curso": []
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdVa_EWh64o1mZii4a2mnedY1cDyywWQkzgr2HH9HIGRZmCHA/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774505767355_cdae32e8137a.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "9e3a28d2-c14c4a",
+    "slug": "panaderia-y-pasteleria-la-mendieta",
+    "titulo": "Panadería y Pastelería – La Mendieta",
+    "descripcion_breve": "Formación práctica en panadería y pastelería: higiene y manipulación de alimentos; técnicas básicas de amasado, elaboración de masas clásicas y panes especiales; técnicas básicas de batidos y tartas; presentación de los productos.",
+    "descripcion_completa": "El curso está orientado a personas que deseen iniciarse en la elaboración de productos básicos de panadería y repostería. Durante el cursado se trabajará sobre normas de higiene y seguridad alimentaria, organización del área de trabajo, uso correcto de utensilios, reconocimiento de materias primas y aplicación de diferentes técnicas de elaboración. Se realizarán preparaciones como batidos pesados (muffins, budines, brownies), batidos livianos (piononos, bizcochuelos, tortas clásicas) tartas dulces, panes clásicos y especiales (saborizados, pizza, pan lactal), bizcochos y galletas de panadería, finalizando con la presentación de un plato elaborado. El curso está dirigido a principiantes y personas interesadas en adquirir conocimientos prácticos para uso personal o salida laboral.",
+    "actividades": "Normas de higiene. Manipulación segura de alimentos y organización del área de trabajo. Reconocimiento de utensilios, moldes y materias primas. Pesos y medidas en pastelería. Elaboración de muffins, budines y brownies. Preparación de pionono y armado de tronquito. Realización de bizcochuelo y armado de tortas clásicas. Elaboración de clásicos argentinos: pastafrola y alfajores de maicena. Preparación de tartas dulces. Panificados: pan chip, panes saborizados, pizza y Focaccia. Elaboración de pan lactal e integral. Preparación de bizcochos y pan de leche. Elaboración de galletas de panadería. Presentación final de un plato y degustación.",
+    "duracion_total": "8 semanas (16 encuentros)",
+    "fecha_inicio": "2026-04-07",
+    "fecha_inicio_legible": "7 de abril",
+    "fecha_fin": "2026-05-28",
+    "fecha_fin_legible": "28 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Martes de 09:00 a 12:00",
+      "Jueves de 09:00 a 12:00"
+    ],
+    "localidades": [
+      "La Mendieta"
+    ],
+    "direcciones": [
+      "A Informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicera",
+        "Delantal",
+        "Cofia",
+        "Utensilios varios",
+        "Materia prima"
+      ],
+      "entrega_curso": [
+        "Material digital complementario: Recetario"
+      ]
+    },
+    "formulario": "La Mendieta",
+    "imagen": "/uploads/cursos/curso_1774505853197_a0366475a880.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "8508ae1b-3b7952",
+    "slug": "refrigeracion-basica-domiciliaria-yala-comision-1",
+    "titulo": "Refrigeración básica domiciliaria – Yala (Comisión 1)",
+    "descripcion_breve": "Aprendé a diagnosticar, reparar y mantener heladeras domiciliarias con un curso práctico pensado para principiantes y salida laboral",
+    "descripcion_completa": "Este curso de reparación de heladeras domiciliarios está diseñado para que puedas iniciarte en el mundo de la refrigeración desde cero.",
+    "actividades": "• Diagnóstico de fallas comunes • Reparación de componentes • Uso de herramientas específicas • Mantenimiento preventivo",
+    "duracion_total": "8 semanas (12 encuentros)",
+    "fecha_inicio": "2026-04-06",
+    "fecha_inicio_legible": "6 de abril",
+    "fecha_fin": "2026-05-27",
+    "fecha_fin_legible": "27 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3,
+      4
+    ],
+    "dias_horarios": [
+      "Lunes de 14:00 a 17:00",
+      "Miércoles de 14:00 a 18:00"
+    ],
+    "localidades": [
+      "Yala"
+    ],
+    "direcciones": [
+      "A definir"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicera"
+      ],
+      "entrega_curso": []
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeRsg51gvUohmmSc9JqjExw2ZrkHjHg8zyHfqzQxFgDci-mSw/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774505933582_96619235fcd1.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "e7805f5b-8d246f",
+    "slug": "reparacion-y-mantenimiento-de-lavarropas-yala",
+    "titulo": "Reparación y mantenimiento de lavarropas – Yala",
+    "descripcion_breve": "Formación práctica en reparación, detectar falla y solucion de problemas en lavarropas",
+    "descripcion_completa": "El curso está dirigido a personas que quieran aprender sobre reparación de lavarropas, fallas y su posible solución, mantenimiento preventivo, correctivo y predictivo. Se abordará teórica con su práctica correspondiente, el principal objetivo es que todo alumno aprenda a reparar y detectar fallas en lavarropas y secarropas. Está dirigido a todo público mayor de 18 años sin limite de edad tanto como masculino y femenino.",
+    "actividades": "Cómo identificar fallas y su posible solución",
+    "duracion_total": "2 mes",
+    "fecha_inicio": "2026-04-06",
+    "fecha_inicio_legible": "6 de abril",
+    "fecha_fin": "2026-05-28",
+    "fecha_fin_legible": "28 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Martes de 14:30 a 17:30",
+      "Jueves de 14:30 a 17:30"
+    ],
+    "localidades": [
+      "Yala"
+    ],
+    "direcciones": [
+      "A confirmar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno para apuntes",
+        "Herramientas a definir"
+      ],
+      "entrega_curso": []
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSerHlC8246syZaDVPdFrOReJeoFyakQdSgR6SXGkp_5VMheig/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774506164656_116b82805b71.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "80c1d835-a5321c",
+    "slug": "refrigeracion-basica-domiciliaria-yala-comision-2",
+    "titulo": "Refrigeración básica domiciliaria – Yala (Comisión 2)",
+    "descripcion_breve": "Aprendé a diagnosticar, reparar y mantener heladeras domiciliarias con un curso práctico pensado para principiantes y salida laboral",
+    "descripcion_completa": "Este curso de reparación de heladeras domiciliarios está diseñado para que puedas iniciarte en el mundo de la refrigeración desde cero.",
+    "actividades": "• Diagnóstico de fallas comunes • Reparación de componentes • Uso de herramientas específicas • Mantenimiento preventivo",
+    "duracion_total": "8 semanas (12 encuentros)",
+    "fecha_inicio": "2026-04-06",
+    "fecha_inicio_legible": "6 de abril",
+    "fecha_fin": "2026-05-27",
+    "fecha_fin_legible": "27 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Lunes de 14:00 a 17:00",
+      "Miércoles de 14:00 a 17:00"
+    ],
+    "localidades": [
+      "Yala"
+    ],
+    "direcciones": [
+      "A definir"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicera"
+      ],
+      "entrega_curso": []
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdA-zguDR4h4GZdj7B4jvWmAT0NlWn-l-IhT9xfuAe7ZyRwtQ/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774506244145_598c1b31b6c4.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T08:00",
     "inscripcion_fin": "",
     "cupos": 25
   }
