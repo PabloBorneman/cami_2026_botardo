@@ -54,7 +54,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScP5qXjDb1dtAONlwL7uGxp-8KnvUZUPsEvb-yblqaNw9sRFw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774417658645_c0a62375f619.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -102,7 +102,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeYcTRaIfdcl7gGymtXI004i0WHrjV3-XZpBVz25AWd92OPIg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774417698261_d9309ffa7756.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -675,7 +675,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfNY_a35ag077RVMjuIvPGwbqunFmGykMFkj5GTrViHhG258g/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774419204416_d64be06ce9a5.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -832,7 +832,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScH3AWbm_LaUnGNppcfrG-FOqh_AeImRGECT1W0Pp_3w-Fdig/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774456224325_31bb531a3683.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -881,7 +881,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScimkmA8Ea3I1sq9zpiHjVsdA5Q64fgpGCl7u_Bh5R7Zzr3rA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774456386295_f0d471084ae8.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -931,7 +931,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdK12ijSVTXJMeqz3-_E2hckxHAzw0FE-TDtdKlEbkJMjub5Q/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774456497368_252e5e9dbba3.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -995,7 +995,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScD_YibWczfjvUAe8PEbBKR2nt0JIxE7Bu3pFIuIVOhGiZgpw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774456762405_743e749638a6.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -1054,7 +1054,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfcSv6rB8pLLNMu_Z2l4cLrqbd3yU7wLsOXw0ntyHPmxLvBdg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774456929573_e96d070affc2.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -1114,7 +1114,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSccPJgAnUwqkAXq1wEciy9sqXJJ2Uo0hW_aQHdwuFvS5THnbA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774457085544_243c535fcbf1.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -1166,7 +1166,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSf3kbiyrddYfnp9ptVIMq3i7WWJ3hXBLM10Juk3ZhPG8nyMcA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774457190688_30e7191628a6.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -1219,7 +1219,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSe3NyHFYIkgQYCVa9QLYctsGMiiCUAuH29a7MdoarSh8pw2YQ/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774457367808_e445d365b09e.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -1271,7 +1271,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSev6TbEeDw8kiSx0WlCg3KoBxOQwIjzfGcm3Ct_XeGaiXrERg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774457523410_669872546b43.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -1326,7 +1326,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSe0f2kX_t-2k6z91nbCnMza9EXruvXvlbtW7L4Ex4dzeaohbg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774458056910_bd75e953ac4f.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -1594,7 +1594,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdHPU3Vi2XJlpuaixarggkfWk6ijHIMY-1x_xP7hZvmHCQh_A/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774459708072_aec206c29aee.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -1694,7 +1694,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScHAPpuq_Vo709-XTEPy1hS1_Zlt7jvp9f-LB5OH6-qPYB_YA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774460122762_01202fede2be.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -1755,7 +1755,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeizvWFahFIlklX5MRNf4xobDUJsOZm5KnBQT7NoVJuYQeD1Q/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774460433528_3116c7214ca6.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -1811,7 +1811,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSczVHYvSZalvI8jMNfFWNLFzeZyd-knOBiZJ1c6oG0jQHbkrw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774460646342_727bc02d6358.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -1918,7 +1918,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSd9NWYGCeCxVFGL-8-zVLtdxEMi4RHgfftYi6bkCEsNsXoPug/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774461029744_a542df3e7e8e.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T15:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -2071,7 +2071,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScOUPYvNK5rTUSsPKTtIPvhE1rLyUBV3CQw_uEy4rHKrCYa2w/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774505150548_853102e54f6c.webp",
     "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_inicio": "2026-03-26T08:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -2116,7 +2116,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSe7JPxSswrdJG1MPTSiTppczGlgYxZOywPAvbwILBoJOIuHug/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774505335390_f4fc6febe5e8.webp",
     "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_inicio": "2026-03-26T08:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -2160,8 +2160,8 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSe9Ri18d2Os59rgQ3sJcb01r7ug-wHkYGHDYlvx4kBXBfdbUg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774505508039_a8aac1a2f3a0.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-26T08:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -2203,8 +2203,8 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSefzGB2Al8A95xMhZPCpoPVgHcLUTV5XKd6QGcaa9OCEJE1xg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774505627962_29cb78915159.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-26T08:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -2250,8 +2250,8 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdVa_EWh64o1mZii4a2mnedY1cDyywWQkzgr2HH9HIGRZmCHA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774505767355_cdae32e8137a.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-26T08:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -2304,7 +2304,7 @@
     "formulario": "La Mendieta",
     "imagen": "/uploads/cursos/curso_1774505853197_a0366475a880.webp",
     "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_inicio": "2026-03-26T08:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -2352,7 +2352,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeRsg51gvUohmmSc9JqjExw2ZrkHjHg8zyHfqzQxFgDci-mSw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774505933582_96619235fcd1.webp",
     "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_inicio": "2026-03-26T08:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -2399,7 +2399,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSerHlC8246syZaDVPdFrOReJeoFyakQdSgR6SXGkp_5VMheig/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774506164656_116b82805b71.webp",
     "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_inicio": "2026-03-26T08:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -2446,7 +2446,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdA-zguDR4h4GZdj7B4jvWmAT0NlWn-l-IhT9xfuAe7ZyRwtQ/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774506244145_598c1b31b6c4.webp",
     "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_inicio": "2026-03-26T08:00",
     "inscripcion_fin": "",
     "cupos": 25
   }
