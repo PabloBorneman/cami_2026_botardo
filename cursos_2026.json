@@ -55,7 +55,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScP5qXjDb1dtAONlwL7uGxp-8KnvUZUPsEvb-yblqaNw9sRFw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774417658645_c0a62375f619.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -103,7 +103,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeYcTRaIfdcl7gGymtXI004i0WHrjV3-XZpBVz25AWd92OPIg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774417698261_d9309ffa7756.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -177,7 +177,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfqNIYTkPP-uYPsGcQ7pREhlYpX5EDcfpn7H1ulU3lZSfAp_g/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774417798722_98a6ab87541f.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -228,7 +228,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScIXTxKZ32oQAGVc2qTQXZSKX25xIl17qO6yyPcS8aWXuMXCQ/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774417939736_b4d1ea49f3d2.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -277,7 +277,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScWnqRaAFDRzZZ6y2hz4n-W4u7Kf2TX9hUO3Tj__QLWH3fwsA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774418021254_e6ccc089415e.webp",
     "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -299,7 +299,7 @@
     ],
     "dias_horarios": [
       "Lunes de 09:00 a 12:00",
-      "Martes de 15:00 a 18:00"
+      "Martes de 12:00 a 18:00"
     ],
     "localidades": [
       "Tres Cruces"
@@ -327,7 +327,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSez7a-tQiZerLWKkZlTs2VO1g8niUFSYnGnlLwx2ctmcphH7Q/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774418154967_8ca0744ef784.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -348,7 +348,7 @@
       4
     ],
     "dias_horarios": [
-      "Miércoles de 15:00 a 19:00",
+      "Miércoles de 12:00 a 19:00",
       "Jueves de 08:00 a 12:00"
     ],
     "localidades": [
@@ -375,7 +375,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdD9CDJ761x69gIjznykSdjmEB_eQlQIJ4pqv0P8HdBSFQptA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774418253066_8d35c873007c.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -396,8 +396,8 @@
       3
     ],
     "dias_horarios": [
-      "Lunes de 15:00 a 18:00",
-      "Martes de 15:00 a 18:00"
+      "Lunes de 12:00 a 18:00",
+      "Martes de 12:00 a 18:00"
     ],
     "localidades": [
       "Tilcara"
@@ -426,7 +426,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdetaxWzWccn3boax6xH_JLurNQZLK7mW3kpInUITwwL-SWuQ/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774418383713_85621217962d.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -476,7 +476,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfX0g-yjyzMKFX5xPW3HbiCT3TAapMmsvE2w-xYp28pD4Kcxg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774418474472_44aa7247861d.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -498,7 +498,7 @@
     ],
     "dias_horarios": [
       "Miércoles de 08:00 a 12:00",
-      "Jueves de 15:00 a 19:00"
+      "Jueves de 12:00 a 19:00"
     ],
     "localidades": [
       "Purmamarca"
@@ -524,7 +524,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScTEut61r4g0ac4RzIaf2LBE051IwFYk9phi56ak1aECfAqOA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774418671625_6907912b0faa.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -574,7 +574,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeIYKGX6SL4GrIFF1vlrOfNLAi6jcRvvakq9JmLKk35NSryFA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774418992806_892cfb0f9817.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -625,7 +625,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdS4eiP79fVjaSCLtMKCPq9QJGgEYOWnRyiwSmeuC4Xl6tOzg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774419112994_7e5d07145c1b.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -676,7 +676,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfNY_a35ag077RVMjuIvPGwbqunFmGykMFkj5GTrViHhG258g/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774419204416_d64be06ce9a5.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -729,8 +729,8 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSd4UaeA3RG9VUcE3kQs0QYluV1efIm_cibQ0fG8C1eFxQyiAw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774420842946_8be998a977ad.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -784,7 +784,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdQE-p28blRI1-UJBJZWpCP12pn4rfyKYPzHJFHUStHCeajPQ/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774421197064_cc1da246a933.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -833,7 +833,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScH3AWbm_LaUnGNppcfrG-FOqh_AeImRGECT1W0Pp_3w-Fdig/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774456224325_31bb531a3683.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -882,7 +882,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScimkmA8Ea3I1sq9zpiHjVsdA5Q64fgpGCl7u_Bh5R7Zzr3rA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774456386295_f0d471084ae8.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -932,7 +932,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdK12ijSVTXJMeqz3-_E2hckxHAzw0FE-TDtdKlEbkJMjub5Q/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774456497368_252e5e9dbba3.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -996,7 +996,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScD_YibWczfjvUAe8PEbBKR2nt0JIxE7Bu3pFIuIVOhGiZgpw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774456762405_743e749638a6.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -1017,8 +1017,8 @@
       4
     ],
     "dias_horarios": [
-      "Lunes 15:00 a 18:00",
-      "Miércoles 15:00 a 18:00"
+      "Lunes 12:00 a 18:00",
+      "Miércoles 12:00 a 18:00"
     ],
     "localidades": [
       "Palpalá"
@@ -1055,7 +1055,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfcSv6rB8pLLNMu_Z2l4cLrqbd3yU7wLsOXw0ntyHPmxLvBdg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774456929573_e96d070affc2.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -1115,7 +1115,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSccPJgAnUwqkAXq1wEciy9sqXJJ2Uo0hW_aQHdwuFvS5THnbA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774457085544_243c535fcbf1.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -1167,7 +1167,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSf3kbiyrddYfnp9ptVIMq3i7WWJ3hXBLM10Juk3ZhPG8nyMcA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774457190688_30e7191628a6.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -1220,7 +1220,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSe3NyHFYIkgQYCVa9QLYctsGMiiCUAuH29a7MdoarSh8pw2YQ/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774457367808_e445d365b09e.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -1272,7 +1272,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSev6TbEeDw8kiSx0WlCg3KoBxOQwIjzfGcm3Ct_XeGaiXrERg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774457523410_669872546b43.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -1294,7 +1294,7 @@
     ],
     "dias_horarios": [
       "Martes DE 9:00 A 12:00",
-      "Sábado DE 15:00 A 18:00"
+      "Sábado DE 12:00 A 18:00"
     ],
     "localidades": [
       "Monterrico"
@@ -1327,7 +1327,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSe0f2kX_t-2k6z91nbCnMza9EXruvXvlbtW7L4Ex4dzeaohbg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774458056910_bd75e953ac4f.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -1375,8 +1375,8 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSe35Tim6_d2im_mfXV5cRTuHBuwWac2d5DtVMzbYnXvPHHEgg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774458410024_df1c179f5fa5.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -1436,7 +1436,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeqiCGMW1T5I2pDI9ImQ35fSakTUbiqxmIspPF_g0HJOvjYdQ/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774458578265_967bdba73048.webp",
     "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -1495,8 +1495,8 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdRaU7Ab478oF_tPWt7xCxPiXZs1bdVCvO2Fdzb5DdRrYzaFA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774458682901_1970f400c0aa.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -1544,8 +1544,8 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdvjrXvuCASByfP5VtGtSUE9LluZt4zw2nUghQ0LZQHFC9iYg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774459421910_11243e06bc4c.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -1595,7 +1595,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdHPU3Vi2XJlpuaixarggkfWk6ijHIMY-1x_xP7hZvmHCQh_A/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774459708072_aec206c29aee.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -1645,8 +1645,8 @@
     },
     "formulario": "",
     "imagen": "/uploads/cursos/curso_1774459829825_ec824199e27c.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "https://docs.google.com/forms/d/e/1FAIpQLSdMQzehOSPilocuzZUN6GaWOj2UbIOvbHPo9A9wkwbpGjzlvg/viewform?usp=dialog",
     "cupos": 25
   },
@@ -1695,7 +1695,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScHAPpuq_Vo709-XTEPy1hS1_Zlt7jvp9f-LB5OH6-qPYB_YA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774460122762_01202fede2be.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -1756,7 +1756,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeizvWFahFIlklX5MRNf4xobDUJsOZm5KnBQT7NoVJuYQeD1Q/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774460433528_3116c7214ca6.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -1812,7 +1812,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSczVHYvSZalvI8jMNfFWNLFzeZyd-knOBiZJ1c6oG0jQHbkrw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774460646342_727bc02d6358.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -1864,8 +1864,8 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdhjOPhFStR2XAw6bRXBFt66v8iUsx6z8pCZZQ6NHLi_CNbKQ/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774460809645_d085883f8a88.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -1919,7 +1919,7 @@
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSd9NWYGCeCxVFGL-8-zVLtdxEMi4RHgfftYi6bkCEsNsXoPug/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774461029744_a542df3e7e8e.webp",
     "estado": "cupo_completo",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -1976,8 +1976,8 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfupPP2EPI23y_P-xhnsFqUqkfAYFuf2MSuVVfLbI9mcEF6lw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774461307118_b98830bb249d.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -2029,8 +2029,8 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScnT5yR8TACKFGQVv3OQfkInjk4OOYVPOiNJDSj0RoQRoO03w/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774461472538_944524204bd1.webp",
-    "estado": "inscripcion_abierta",
-    "inscripcion_inicio": "2026-03-25T15:00",
+    "estado": "cupo_completo",
+    "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   },
@@ -2070,7 +2070,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScOUPYvNK5rTUSsPKTtIPvhE1rLyUBV3CQw_uEy4rHKrCYa2w/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774505150548_853102e54f6c.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-26T08:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -2115,7 +2115,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSe7JPxSswrdJG1MPTSiTppczGlgYxZOywPAvbwILBoJOIuHug/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774505335390_f4fc6febe5e8.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-26T08:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -2301,9 +2301,9 @@
         "Material digital complementario: Recetario"
       ]
     },
-    "formulario": "La Mendieta",
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfoWAc7y9LUMilGhzYDHh5ojgnbWOY-6HNwwzPYbWcCd4BuQQ/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774505853197_a0366475a880.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-26T08:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -2351,7 +2351,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeRsg51gvUohmmSc9JqjExw2ZrkHjHg8zyHfqzQxFgDci-mSw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774505933582_96619235fcd1.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-26T08:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -2398,7 +2398,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSerHlC8246syZaDVPdFrOReJeoFyakQdSgR6SXGkp_5VMheig/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774506164656_116b82805b71.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-26T08:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -2445,8 +2445,403 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdA-zguDR4h4GZdj7B4jvWmAT0NlWn-l-IhT9xfuAe7ZyRwtQ/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774506244145_598c1b31b6c4.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-26T08:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "b23c59e2-4e0215",
+    "slug": "curso-de-reparacion-de-celulares-nivel-1-san-salvador-de-jujuy",
+    "titulo": "Curso de reparación de celulares nivel 1 – San Salvador de Jujuy",
+    "descripcion_breve": "El Nivel 1 está orientado a personas sin experiencia previa que desean iniciarse en el oficio de reparación de celulares, especialmente en equipos Android. Durante el curso, los alumnos adquieren conocimientos básicos teóricos y prácticos que les permiten identificar fallas comunes, realizar diagnósticos iniciales y ejecutar reparaciones simples con herramientas profesionales. Se trabaja con prácticas reales en taller, fomentando la seguridad, el uso correcto de herramientas y el desarrollo de habilidades técnicas desde cero.",
+    "descripcion_completa": "Que el alumno finalice el nivel con la capacidad de realizar reparaciones básicas de manera independiente y segura, logrando una rápida salida laboral o complemento de ingresos.",
+    "actividades": "📚 Contenidos principales • Introducción a la reparación de celulares • Reconocimiento de herramientas (estación de calor, soldador, microscopio, etc.) • Desarme y armado de equipos • Identificación de componentes internos • Diagnóstico básico de fallas • Cambio de módulos (pantallas) • Cambio de pin de carga • Cambio de batería • Limpieza y mantenimiento general • Buenas prácticas de trabajo técnico",
+    "duracion_total": "4 semanas. ( 4 encuentros )",
+    "fecha_inicio": "2026-04-06",
+    "fecha_inicio_legible": "6 de abril",
+    "fecha_fin": "2026-04-27",
+    "fecha_fin_legible": "27 de abril",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [
+      4
+    ],
+    "dias_horarios": [
+      "Lunes de 12:00 a 19:00"
+    ],
+    "localidades": [
+      "San Salvador de Jujuy"
+    ],
+    "direcciones": [],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno y lapicera Material necesario que se solicitara en clase"
+      ],
+      "entrega_curso": [
+        "PDF con todo lo aprendido en el",
+        "Nivel 1"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScZWb9VVqXPdVMDRdCiOqxdacl0YASeMGY1tVoNBm2n_GVYvw/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774835480296_bf42e5ac8f0c.webp",
+    "estado": "proximo",
+    "inscripcion_inicio": "2026-03-30T12:00",
+    "inscripcion_fin": "",
+    "cupos": 13
+  },
+  {
+    "id": "42e430f2-90b061",
+    "slug": "curso-de-reparacion-de-celulares-nivel-2-san-salvador-de-jujuy",
+    "titulo": "Curso de reparación de celulares nivel 2 – San Salvador de Jujuy",
+    "descripcion_breve": "El Nivel 2 está dirigido a alumnos que ya poseen conocimientos básicos y buscan perfeccionarse en reparaciones avanzadas. Se enfoca en el diagnóstico técnico profundo y en la solución de fallas complejas a nivel placa. Durante el curso se trabajan técnicas de microsoldadura, uso de herramientas profesionales como microscopio y estación de calor, y reparación de componentes electrónicos en equipos Android.",
+    "descripcion_completa": "El curso está orientado a personas interesadas en aprender un oficio con rápida salida laboral, sin necesidad de contar con conocimientos previos en el Nivel 1, y a quienes deseen perfeccionarse en el Nivel 2. Está dirigido a jóvenes y adultos, emprendedores, técnicos iniciales y público en general que busquen generar ingresos a través de la reparación de celulares.",
+    "actividades": "• Diagnóstico avanzado de fallas en equipos Android • Interpretación básica de esquemas electrónicos • Uso profesional de microscopio • Manejo de estación de calor y soldador (punta C210) • Técnicas de microsoldadura • Medición con multímetro (líneas, cortos, continuidad) • Detección y solución de cortocircuitos • Reemplazo de componentes SMD • Reparación de pistas dañadas • Trabajo con stencils y reballing básico • Solución de fallas de carga (línea VBUS, IC de carga) • Fallas de encendido (power) • Limpieza profunda de placa (sulfatación) • Buenas prácticas y seguridad en trabajos de placa",
+    "duracion_total": "4 semanas ( 4 encuentros )",
+    "fecha_inicio": "2026-04-08",
+    "fecha_inicio_legible": "8 de abril",
+    "fecha_fin": "2026-04-29",
+    "fecha_fin_legible": "29 de abril",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [
+      4
+    ],
+    "dias_horarios": [
+      "Martes de 14:00 a 18:00"
+    ],
+    "localidades": [
+      "San Salvador de Jujuy"
+    ],
+    "direcciones": [],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Notebook",
+        "Con Software de schematicos",
+        "PDF del nivel y otros Materiales necesario que se solicitara en clase"
+      ],
+      "entrega_curso": [
+        "PDF con nivel 2"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfPw6YENu0kKBHYmvtsLSoJsFDnGgUAV2lUiD9rNBBIq4BUMw/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774835453879_f17d50665275.webp",
+    "estado": "proximo",
+    "inscripcion_inicio": "2026-03-30T12:00",
+    "inscripcion_fin": "",
+    "cupos": 10
+  },
+  {
+    "id": "9be0bd0d-859d58",
+    "slug": "oratoria-para-emprendedurismo-libertador-gral-san-martin",
+    "titulo": "Oratoria para emprendedurismo – Libertador Gral. San Martin",
+    "descripcion_breve": "Formación intensiva para fortalecer las habilidades de comunicación, oratoria y ventas de emprendedores locales, potenciando su capacidad de generar ingresos, conectar con clientes y hacer crecer sus proyectos.",
+    "descripcion_completa": "Hoy, emprender no es solo producir o brindar un servicio. Es saber: Explicar lo que hacés Conectar con las personas Transmitir valor Generar confianza Vender desde la palabra En este sentido, la comunicación se convierte en una herramienta clave para el crecimiento económico, el desarrollo local y la sostenibilidad de los emprendimientos. Este programa surge como una propuesta de capacitación integral que articula oratoria, y conocimientos de neurooratoria y neuroventas, brindando herramientas prácticas para que los emprendedores puedan: comunicar mejor vender mejor posicionarse mejor y así fortalecer sus proyectos y su autonomía económica.",
+    "actividades": "A lo largo del curso, los participantes trabajarán sobre: Oratoria aplicada al emprendedurismo Cómo hablar con claridad, seguridad y coherencia al presentar un producto o servicio. Estructura del mensaje de venta Organización de ideas para comunicar de forma simple, atractiva y efectiva. Comprensión de cómo las personas toman decisiones de compra, el rol de las emociones y la generación de confianza. Comunicación verbal y no verbal Uso del cuerpo, la voz, la mirada y la actitud como herramientas de persuasión. Gestión emocional al vender Manejo de nervios, inseguridad y miedo a exponerse. Escucha activa y vínculo con el cliente Detección de necesidades, respuesta a objeciones y construcción de relaciones de confianza. Ventas presenciales y atención al público Estrategias para interactuar de manera efectiva en ferias, locales o encuentros cara a cara. Estrategias prácticas implementadas Dinámicas grupales guiadas Ejercicios de comunicación en duplas o pequeños grupos para garantizar la participación activa de todos. Exposiciones voluntarias y rotativas Participaciones orales frente al grupo, donde distintos emprendedores practican en cada clase. Role playing (simulación de ventas) Representación de situaciones reales de venta entre participantes. Aprendizaje por observación Análisis colectivo de aciertos y mejoras en cada práctica, generando aprendizaje compartido. Prácticas de comunicación: Ejercicios de grabación y análisis en conjunto. Ejercicios de conexión y escucha activa Actividades breves para entrenar habilidades interpersonales clave. Prácticas de pitch de venta Presentaciones cortas de productos o servicios en tiempos acotados.",
+    "duracion_total": "8 semanas ( 16 encuentros)",
+    "fecha_inicio": "2026-04-08",
+    "fecha_inicio_legible": "8 de abril",
+    "fecha_fin": "2026-05-29",
+    "fecha_fin_legible": "29 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Miércoles de 9:00 a 12:00",
+      "Viernes de 9:00 a 12:00"
+    ],
+    "localidades": [
+      "Libertador Gral. San Martin"
+    ],
+    "direcciones": [],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicera"
+      ],
+      "entrega_curso": [
+        "Material Digital Complementario"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdbTdJeiTG6M36DnEHpQ1snKLlt9UiGie3BDaup0rWWU4KtLw/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774835401985_12aa429661ed.webp",
+    "estado": "proximo",
+    "inscripcion_inicio": "2026-03-30T12:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "f3dc87e7-90d1f5",
+    "slug": "oratoria-para-emprendedurismo-fraile-pintado",
+    "titulo": "Oratoria para emprendedurismo – Fraile Pintado",
+    "descripcion_breve": "Formación intensiva para fortalecer las habilidades de comunicación, oratoria y ventas de emprendedores locales, potenciando su capacidad de generar ingresos, conectar con clientes y hacer crecer sus proyectos.",
+    "descripcion_completa": "Hoy, emprender no es solo producir o brindar un servicio. Es saber: Explicar lo que hacés Conectar con las personas Transmitir valor Generar confianza Vender desde la palabra En este sentido, la comunicación se convierte en una herramienta clave para el crecimiento económico, el desarrollo local y la sostenibilidad de los emprendimientos. Este programa surge como una propuesta de capacitación integral que articula oratoria, y conocimientos de neurooratoria y neuroventas, brindando herramientas prácticas para que los emprendedores puedan: comunicar mejor vender mejor posicionarse mejor y así fortalecer sus proyectos y su autonomía económica.",
+    "actividades": "A lo largo del curso, los participantes trabajarán sobre: Oratoria aplicada al emprendedurismo Cómo hablar con claridad, seguridad y coherencia al presentar un producto o servicio. Estructura del mensaje de venta Organización de ideas para comunicar de forma simple, atractiva y efectiva. Comprensión de cómo las personas toman decisiones de compra, el rol de las emociones y la generación de confianza. Comunicación verbal y no verbal Uso del cuerpo, la voz, la mirada y la actitud como herramientas de persuasión. Gestión emocional al vender Manejo de nervios, inseguridad y miedo a exponerse. Escucha activa y vínculo con el cliente Detección de necesidades, respuesta a objeciones y construcción de relaciones de confianza. Ventas presenciales y atención al público Estrategias para interactuar de manera efectiva en ferias, locales o encuentros cara a cara. Estrategias prácticas implementadas Dinámicas grupales guiadas Ejercicios de comunicación en duplas o pequeños grupos para garantizar la participación activa de todos. Exposiciones voluntarias y rotativas Participaciones orales frente al grupo, donde distintos emprendedores practican en cada clase. Role playing (simulación de ventas) Representación de situaciones reales de venta entre participantes. Aprendizaje por observación Análisis colectivo de aciertos y mejoras en cada práctica, generando aprendizaje compartido. Prácticas de comunicación: Ejercicios de grabación y análisis en conjunto. Ejercicios de conexión y escucha activa Actividades breves para entrenar habilidades interpersonales clave. Prácticas de pitch de venta Presentaciones cortas de productos o servicios en tiempos acotados.",
+    "duracion_total": "8 semanas ( 16 encuentros)",
+    "fecha_inicio": "2026-04-07",
+    "fecha_inicio_legible": "7 de abril",
+    "fecha_fin": "2026-05-28",
+    "fecha_fin_legible": "28 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Martes de 9:00 a 12:00",
+      "Jueves de 9:00 a 12:00"
+    ],
+    "localidades": [
+      "Fraile Pintado"
+    ],
+    "direcciones": [],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicera"
+      ],
+      "entrega_curso": [
+        "Material Digital Complementario"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSewkxYgSW1imv8KXetqpBu4KgM4zHHtQeepSeV-TBJCcfB_Rg/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774835368827_0a45c1cfb881.webp",
+    "estado": "proximo",
+    "inscripcion_inicio": "2026-03-30T12:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "1ca7b853-e2dfdb",
+    "slug": "bordado-en-relieve-tilcara",
+    "titulo": "Bordado en relieve – Tilcara",
+    "descripcion_breve": "Inculcar enseñanza y creatividad sobre el bordado a mano.",
+    "descripcion_completa": "Fomentar algunas enseñanzas y creaciones que nosotros mismos como sociedad debemos volver a revalorizar, las clases son terapias y compañerismo. Consiste en enseñar a adultos mayores o madres.",
+    "actividades": "Uso ded distintos materiales, preparación de cada material, comienzo y finalización de un trabajo, propuesta de nuevos trabajos personales.",
+    "duracion_total": "3 meses",
+    "fecha_inicio": "2026-04-06",
+    "fecha_inicio_legible": "6 de abril",
+    "fecha_fin": "2026-06-30",
+    "fecha_fin_legible": "30 de junio",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Lunes de 16:00 a 19:00",
+      "Martes de 16:00 a 19:00"
+    ],
+    "localidades": [
+      "Tilcara"
+    ],
+    "direcciones": [],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Telas",
+        "Cinta de papel",
+        "Alfileres",
+        "Hilos",
+        "Calca",
+        "Agujas",
+        "Bastidores",
+        "Lápiz",
+        "Cuaderno",
+        "Lapicera"
+      ],
+      "entrega_curso": [
+        "Patrones",
+        "Moldes"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSemwhbxK1I4FW3C_WKgLEJZ8QPQ5Wzmn_iME2yXQDQ6IlsxCA/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774835341452_400eeef5aa5e.webp",
+    "estado": "proximo",
+    "inscripcion_inicio": "2026-03-30T12:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "be38dd11-05a9be",
+    "slug": "bordado-en-relieve-huacalera",
+    "titulo": "Bordado en relieve – Huacalera",
+    "descripcion_breve": "Inculcar enseñanza y creatividad sobre el bordado a mano.",
+    "descripcion_completa": "Fomentar algunas enseñanzas y creaciones que nosotros mismos como sociedad debemos volver a revalorizar, las clases son terapias y compañerismo. Consiste en enseñar a adultos mayores o madres.",
+    "actividades": "Uso ded distintos materiales, preparación de cada material, comienzo y finalización de un trabajo, propuesta de nuevos trabajos personales.",
+    "duracion_total": "3 meses",
+    "fecha_inicio": "2026-04-09",
+    "fecha_inicio_legible": "9 de abril",
+    "fecha_fin": "2026-06-26",
+    "fecha_fin_legible": "26 de junio",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Jueves de 12:00 a 18:00",
+      "Viernes de 12:00 a 18:00"
+    ],
+    "localidades": [
+      "Huacalera"
+    ],
+    "direcciones": [
+      "Centro Integrador Comunitario CIC- Huacalera"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Telas",
+        "Cinta de papel",
+        "Alfileres",
+        "Hilos",
+        "Calca",
+        "Agujas",
+        "Bastidores",
+        "Lápiz",
+        "Cuaderno",
+        "Lapicera"
+      ],
+      "entrega_curso": [
+        "Patrones",
+        "Moldes"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfTDA75vE61tqt2q8USm7sdRu1-9OlwE_kO8o9kylpjf4O0kw/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774835271764_25ee0e5f54fe.webp",
+    "estado": "proximo",
+    "inscripcion_inicio": "2026-03-30T12:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "cff14860-517432",
+    "slug": "fibra-de-vidrio-libertador-gral-san-martin",
+    "titulo": "Fibra de vidrio – Libertador Gral. San Martin",
+    "descripcion_breve": "Formación intensiva para realizar reparaciones y modeo en fibra de vidrio",
+    "descripcion_completa": "El curso está orientado a personas que quieran orientarse en la manipulación de reparación cn fibra de vidrio. Trabajos y arreglos en juegos de plaza. Piezas de motocicleta. Paragolpe de autos. Lanchas kayak",
+    "actividades": "El curso será teórico práctico. Introducción ala fibra de vidrio. Propiedades de la fibra de vidrio. Aplicación de la fibra de vidrio. Diseñó y reparación de piezas cn fibra de vidrio. Seguridad e higiene laboral. Recursos y herramientas",
+    "duracion_total": "8 semanas (16 encuentros)",
+    "fecha_inicio": "2026-04-07",
+    "fecha_inicio_legible": "7 de abril",
+    "fecha_fin": "2026-05-28",
+    "fecha_fin_legible": "28 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Martes de 18:00 a 21:00",
+      "Jueves de 18:00 a 21:00"
+    ],
+    "localidades": [
+      "Libertador Gral. San Martin"
+    ],
+    "direcciones": [],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno lapicera gafas de seguridad transparente barbijo guantes de látex"
+      ],
+      "entrega_curso": [
+        "Pistola de calor. Espátula. Pinceles. Recipiente de mescla."
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSftCMGV6eTkFLDtUaSRp0pr6Ib6pDxhkxoTlYWOIwlfWLmHVA/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774835236465_bc97c6b1eeb1.webp",
+    "estado": "proximo",
+    "inscripcion_inicio": "2026-03-30T12:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "ee17ebd8-bfc169",
+    "slug": "construccion-en-seco-2-parte-libertador-gral-san-martin",
+    "titulo": "Construcción en Seco 2.ª parte – Libertador Gral. San Martín",
+    "descripcion_breve": "Diseños avanzados de construcción en seco",
+    "descripcion_completa": "El curso avanzado de construcción en seco , está orientado a los alumnos que ya realizaron el curso básico para complementar los diferentes sistemas avanzados de construcción.",
+    "actividades": "Práctica con estructuras complejas . Emplacado con formas y diseños Masillado y terminaciones finas.",
+    "duracion_total": "8 semanas ( 16 encuentros )",
+    "fecha_inicio": "2026-04-07",
+    "fecha_inicio_legible": "7 de abril",
+    "fecha_fin": "2026-05-28",
+    "fecha_fin_legible": "28 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Martes de 18:00 a 21:00",
+      "Jueves de 18:00 a 21:00"
+    ],
+    "localidades": [
+      "Libertador Gral. San Martín"
+    ],
+    "direcciones": [],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicera",
+        "Elementos de protección personal"
+      ],
+      "entrega_curso": [
+        "Prácticas reales."
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSflrEYSJoB8RjcDdvWYeTuTl7zGUYCJwNPBKhCz_rorWdPluw/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774835165210_81cd32b92e8c.webp",
+    "estado": "proximo",
+    "inscripcion_inicio": "2026-03-30T12:00",
     "inscripcion_fin": "",
     "cupos": 25
   }
