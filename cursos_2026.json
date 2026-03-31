@@ -276,7 +276,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScWnqRaAFDRzZZ6y2hz4n-W4u7Kf2TX9hUO3Tj__QLWH3fwsA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774418021254_e6ccc089415e.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -2491,7 +2491,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScZWb9VVqXPdVMDRdCiOqxdacl0YASeMGY1tVoNBm2n_GVYvw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774835480296_bf42e5ac8f0c.webp",
-    "estado": "proximo",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-30T12:00",
     "inscripcion_fin": "",
     "cupos": 13
@@ -2538,7 +2538,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfPw6YENu0kKBHYmvtsLSoJsFDnGgUAV2lUiD9rNBBIq4BUMw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774835453879_f17d50665275.webp",
-    "estado": "proximo",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-30T12:00",
     "inscripcion_fin": "",
     "cupos": 10
@@ -2585,7 +2585,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdbTdJeiTG6M36DnEHpQ1snKLlt9UiGie3BDaup0rWWU4KtLw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774835401985_12aa429661ed.webp",
-    "estado": "proximo",
+    "estado": "inscripcion_abierta",
     "inscripcion_inicio": "2026-03-30T12:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -2632,7 +2632,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSewkxYgSW1imv8KXetqpBu4KgM4zHHtQeepSeV-TBJCcfB_Rg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774835368827_0a45c1cfb881.webp",
-    "estado": "proximo",
+    "estado": "inscripcion_abierta",
     "inscripcion_inicio": "2026-03-30T12:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -2688,7 +2688,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSemwhbxK1I4FW3C_WKgLEJZ8QPQ5Wzmn_iME2yXQDQ6IlsxCA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774835341452_400eeef5aa5e.webp",
-    "estado": "proximo",
+    "estado": "inscripcion_abierta",
     "inscripcion_inicio": "2026-03-30T12:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -2746,7 +2746,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfTDA75vE61tqt2q8USm7sdRu1-9OlwE_kO8o9kylpjf4O0kw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774835271764_25ee0e5f54fe.webp",
-    "estado": "proximo",
+    "estado": "inscripcion_abierta",
     "inscripcion_inicio": "2026-03-30T12:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -2792,7 +2792,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSftCMGV6eTkFLDtUaSRp0pr6Ib6pDxhkxoTlYWOIwlfWLmHVA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774835236465_bc97c6b1eeb1.webp",
-    "estado": "proximo",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-30T12:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -2840,8 +2840,424 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSflrEYSJoB8RjcDdvWYeTuTl7zGUYCJwNPBKhCz_rorWdPluw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774835165210_81cd32b92e8c.webp",
-    "estado": "proximo",
+    "estado": "inscripcion_abierta",
     "inscripcion_inicio": "2026-03-30T12:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "feeb78df-fbc8be",
+    "slug": "electricidad-domiciliaria-la-esperanza",
+    "titulo": "Electricidad Domiciliaria – La Esperanza",
+    "descripcion_breve": "La Capacitación en Electricidad Domiciliaria es un programa diseñado para proporcionar a los participantes los conocimientos y habilidades necesarias para realizar instalaciones y reparaciones eléctricas en domicilios de manera segura y eficiente.",
+    "descripcion_completa": "La capacitación esta abierta a cualquier persona interesada en aprender sobre la instalación y reparación en el area de electricidad, sin requisitos previos de experiencia o educación.",
+    "actividades": "Reconocimiento de herramientas y materiales eléctricos. Normas básicas de seguridad eléctrica. Instalación de tomacorrientes, interruptores y luminarias. Conexión de circuitos eléctricos domiciliarios. Identificación y reparación de fallas eléctricas simples. Mantenimiento básico de instalaciones eléctricas del hogar.",
+    "duracion_total": "8 Semanas (8 encuentros)",
+    "fecha_inicio": "2026-04-10",
+    "fecha_inicio_legible": "10 de abril",
+    "fecha_fin": "2026-05-30",
+    "fecha_fin_legible": "30 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      4
+    ],
+    "dias_horarios": [
+      "Viernes de 18:00 a 22:00",
+      "Sábado de 18:00 a 22:00"
+    ],
+    "localidades": [
+      "La Esperanza"
+    ],
+    "direcciones": [
+      "Biblioteca Popular La Esperanza (al lado del Registro Civil)"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicera"
+      ],
+      "entrega_curso": [
+        "Certificado de la capacitación"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScZuyymWiZ5S1CK9S_6HUz5Vd0aOoUgnmHpQfMSGMuSRk0fVA/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774916509215_1126a5d585ad.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "f6cad5a1-026c85",
+    "slug": "sublimacion-artesanal-san-antonio",
+    "titulo": "Sublimación Artesanal – San Antonio",
+    "descripcion_breve": "Vas a poder aprender a personalizar remeras ,gorras etc. Para sublimar desde tu casa utilizando técnicas de sublimación casera accesibles y creativas",
+    "descripcion_completa": "Este curso ofrece una capacitación práctica y accesible en técnicas de impresión textil enfocada en la sublimación casera solo utilizando una plancha de casa y esta destinado a jóvenes y adultos interesados en la personalización textil.",
+    "actividades": "Aprenderán a sublimar distintos tipos de telas utilizando una plancha común de casa .Realizarán prácticas de impresión con distintos tipos de diseños .Aprenderán a controlar el calor de su plancha y tiempo que nesecitaran para poder imprimir el diseño que desean sublimar en la prenda.",
+    "duracion_total": "2 meses",
+    "fecha_inicio": "2026-04-08",
+    "fecha_inicio_legible": "8 de abril",
+    "fecha_fin": "2026-05-28",
+    "fecha_fin_legible": "28 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Miércoles de 18:30 a 21:30",
+      "Jueves de 18:30 a 21:30"
+    ],
+    "localidades": [
+      "San Antonio"
+    ],
+    "direcciones": [
+      "Se informará"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicero",
+        "Una plancha común",
+        "Cinta térmica",
+        "Papel especial para sublimar",
+        "Hoja A4",
+        "Retazos de telas colores claros y oscuros lisas sin ningún diseño",
+        "Tijera",
+        "Regla"
+      ],
+      "entrega_curso": []
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfK5Ksfl7lIKu34-juB7tBjVKxoQjF5ENzdUy3nuGOz0oMJSA/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774916488394_05a1f45d668a.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "6f2857ef-2ae6e8",
+    "slug": "peluqueria-basica-san-antonio",
+    "titulo": "Peluquería Básica – San Antonio",
+    "descripcion_breve": "Formación intensiva en barbero ,lady barber y peluquería unisex",
+    "descripcion_completa": "El presente curso tiene como objetivo brindar una formación básica en peluquería, capacitando a los alumnos en técnicas de corte, peinado, brushing y coloración inicial. Se busca que los participantes adquieran conocimientos teóricos y prácticos, aplicando normas de higiene, seguridad y atención profesional.",
+    "actividades": "El curso combina clases teóricas con demostraciones prácticas y supervisadas en modelos en el aula como así también entidades públicas, centros vecinal etc. El enfoque es 100% práctico, priorizando el desarrollo de habilidades profesionales desde el inicio",
+    "duracion_total": "2 meses",
+    "fecha_inicio": "2026-04-11",
+    "fecha_inicio_legible": "11 de abril",
+    "fecha_fin": "2026-05-30",
+    "fecha_fin_legible": "30 de mayo",
+    "frecuencia_semanal": "otro",
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Sábado de 10:00 a 13:00",
+      "Sábado de 16:00 a 19:00"
+    ],
+    "localidades": [
+      "San Antonio"
+    ],
+    "direcciones": [
+      "A considerar por la Academia de Oficios"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Tijeras",
+        "Peines",
+        "Máquinas de cortar",
+        "Peinador",
+        "Quitapelos"
+      ],
+      "entrega_curso": [
+        "Material digital complementario"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeVvhCiNK4B0mUycFQT-3pIC8LZyC0zskuyan2QGuBo2TMdmQ/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774916463010_648d301b8024.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "eee7a7e0-0f68e2",
+    "slug": "ayudante-de-panadero-yala",
+    "titulo": "Ayudante de Panadero – Yala",
+    "descripcion_breve": "Formación intensiva de panadería. Oficio gastronómico y panadero.",
+    "descripcion_completa": "El curso está orientado a personas que deseen iniciarse en el trabajo de la panadería. Se brindarán herramientas prácticas y teóricas para desempeñarse en un entorno profesional o de manera independiente.",
+    "actividades": "Se harán actividades prácticas para reforzar los fundamentos teóricos para generar criterio y comprender el rol de los ingredientes y los factores externos que alteran el pan. Se elaboraran distintos panes aumentando la complejidad de las recetas y así mismo se trabajara sobre hábitos del oficio, higiene, orden, trabajo en equipo y seguimiento de indicaciones.",
+    "duracion_total": "16 encuentros",
+    "fecha_inicio": "2026-04-06",
+    "fecha_inicio_legible": "6 de abril",
+    "fecha_fin": "2026-05-27",
+    "fecha_fin_legible": "27 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Lunes de 16:00 a 19:00",
+      "Miércoles de 16:00 a 19:00"
+    ],
+    "localidades": [
+      "Yala"
+    ],
+    "direcciones": [
+      "A informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicera",
+        "Cofia para el pelo",
+        "Delantal",
+        "Repasador",
+        "Ingredientes a trabajar por clase"
+      ],
+      "entrega_curso": [
+        "Cartilla digital"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSf8cyCiVOf7Z0Wuc_zIFRDJ8ci9QpsWdy-pinykg0Xmyin9XA/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774916446831_beef90ceb56a.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "186f44c4-3bd6d2",
+    "slug": "ayudante-de-cocina-yala",
+    "titulo": "Ayudante de Cocina – Yala",
+    "descripcion_breve": "Curso orientado a la formación inicial en cocina, donde se adquieren técnicas básicas, organización del oficio y habilidades necesarias para desempeñarse como ayudante en una cocina.",
+    "descripcion_completa": "El curso está dirigido a personas que deseen iniciarse en el ámbito gastronómico, brindando herramientas prácticas y conocimientos fundamentales para integrarse a una cocina profesional como ayudante. A lo largo del cursado, los participantes aprenderán técnicas esenciales como cortes básicos, métodos de cocción, elaboración de preparaciones simples y producción de platos de uso cotidiano en cocina.",
+    "actividades": "El enfoque estará puesto en el desarrollo de hábitos de trabajo profesional: orden, limpieza, rapidez, trabajo en equipo y seguimiento de indicaciones, técnicas de cocción, preparación de platos simples, salsas, elaboración de pastas.",
+    "duracion_total": "16 encuentros",
+    "fecha_inicio": "2026-04-07",
+    "fecha_inicio_legible": "7 de abril",
+    "fecha_fin": "2026-05-28",
+    "fecha_fin_legible": "28 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Martes de 16:00 a 19:00",
+      "Jueves de 16:00 a 19:00"
+    ],
+    "localidades": [
+      "Yala"
+    ],
+    "direcciones": [
+      "A informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicera",
+        "Delantal",
+        "Repasador limpio",
+        "Gorra o cofia (cabello recogido)"
+      ],
+      "entrega_curso": [
+        "Cartilla digital"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeuu6um3qv_ej5Aa4wtzVFb7cM3FYOgMEJFNRtuMxw1SscR_A/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774916419962_ccf2a5ed77ef.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "22187408-73d10b",
+    "slug": "pasteleria-basica-moderna-volcan",
+    "titulo": "Pastelería Básica Moderna – Volcán",
+    "descripcion_breve": "Curso que enseña técnicas actuales de pastelería para crear postres innovadores, combinando sabores, texturas y presentaciones modernas con métodos profesionales.",
+    "descripcion_completa": "Este proyecto busca desarrollar competencias técnicas, creatividad, control de proceso y visión emprendedora, permitiendo a los alumnos elaborar productos innovadores con estándares profesionales. Se trabajaran diferentes elaboraciones como mousses, cremosos, bizcochos, glaseados espejo, ganaches, crujientes y decoraciones modernas, además de técnicas de montaje y acabado utilizadas en la pastelería contemporánea. También se enseña el uso correcto de ingredientes, herramientas y procesos para lograr resultados de alta calidad.",
+    "actividades": "Introducción y bases técnicas. Mousses y cremosos. Glaseado espejo. Texturas contemporáneas. Emplatados, salsas y coulis. Tarta moderna. Postre de autor.",
+    "duracion_total": "8 semanas",
+    "fecha_inicio": "2026-04-07",
+    "fecha_inicio_legible": "7 de abril",
+    "fecha_fin": "2026-05-28",
+    "fecha_fin_legible": "28 de mayo",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      4
+    ],
+    "dias_horarios": [
+      "Martes de 14:00 a 18:00",
+      "Jueves de 14:00 a 18:00"
+    ],
+    "localidades": [
+      "Volcán"
+    ],
+    "direcciones": [
+      "A informar"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Delantal",
+        "Cofia",
+        "Utensilios: balanza, espátula, compotera, etc.",
+        "Ingredientes: azúcar, harina, crema, etc."
+      ],
+      "entrega_curso": [
+        "Recetarios en formato PDF"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSclECMg2j0yEELCg0IjDss_SD8Ex8zvvPvUvIskVlCXX2A1kg/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774916393488_7f55fc67fc10.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "ac4df38a-5f2c81",
+    "slug": "chacinado-san-salvador-de-jujuy",
+    "titulo": "Chacinado – San Salvador de Jujuy",
+    "descripcion_breve": "Capacitación en elaboración artesanal de embutidos, abarcando selección de carnes, técnicas de especiado, curado y atado. Con fuerte enfoque en normas de seguridad e higiene alimentaria.",
+    "descripcion_completa": "El curso está orientado a personas que quieran aprender técnicas de elaboración, con un enfoque práctico y teórico para desarrollar productos cárnicos seguros y de calidad para consumo o comercialización.",
+    "actividades": "Selección de carnes. Técnicas de especiado. Enfoque práctico y teórico. Tipos de contaminación. Normas básicas de seguridad. Normas básicas de higiene alimentaria.",
+    "duracion_total": "4 semanas (8 encuentros)",
+    "fecha_inicio": "2026-04-07",
+    "fecha_inicio_legible": "7 de abril",
+    "fecha_fin": "2026-04-30",
+    "fecha_fin_legible": "30 de abril",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Martes de 8:30 a 11:30",
+      "Jueves de 8:30 a 11:30"
+    ],
+    "localidades": [
+      "San Salvador de Jujuy"
+    ],
+    "direcciones": [
+      "Se informará"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cartilla impresa",
+        "Lapicera",
+        "Uniforme (delantal y cofia)"
+      ],
+      "entrega_curso": [
+        "A designar"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeiOdsMCyK6QaJYhsuYST35hFj8KYT6FVG7NpggZQS_hghslA/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774916376143_2ccf9f360955.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T08:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "ae636d92-de73da",
+    "slug": "bartender-profesional-san-salvador-de-jujuy",
+    "titulo": "Bartender Profesional – San Salvador de Jujuy",
+    "descripcion_breve": "Formación intensiva para trabajar como Bartender detrás de una barra de restaurante, hotel, bar, disco y afines. Coctelería clásica de carta internacional y de autor con coctelería regional.",
+    "descripcion_completa": "El curso está dirigido a personas que quieran empezar a trabajar en el rubro gastronómico de las bebidas y la coctelería en general. Se tratarán técnicas de elaboración de cócteles. Elaboración de insumos. Herramientas, cristalería.Teoría y práctica todas las clases.",
+    "actividades": "Historia del cóctel. Herramientas Cristalería Métodos de elaboración Destilados Aperitivos Whisky y su historia Práctica de cócteles Coctelería de autor Coctelería regional Examen teórico y práctico",
+    "duracion_total": "4 semanas (8 encuentros)",
+    "fecha_inicio": "2026-04-07",
+    "fecha_inicio_legible": "7 de abril",
+    "fecha_fin": "2026-04-30",
+    "fecha_fin_legible": "30 de abril",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      2.5
+    ],
+    "dias_horarios": [
+      "Martes de 9:00 a 11:30",
+      "Jueves de 9:00 a 11:30"
+    ],
+    "localidades": [
+      "San Salvador de Jujuy"
+    ],
+    "direcciones": [
+      "Club de Emprendedores"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno",
+        "Lapicera",
+        "Cabello recogido",
+        "Alcohol en gel",
+        "Repasador o paño absorbente amarillo",
+        "Insumos puntuales para algunas clases",
+        "Herramientas",
+        "Bebidas"
+      ],
+      "entrega_curso": [
+        "Manual digital"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScvOudKJ-dlIhId8PCmT4HqrKbmeuV6NJFOg8gWgA348k8rcg/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1774916354904_be35a11f98f9.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-25T08:00",
     "inscripcion_fin": "",
     "cupos": 25
   }
