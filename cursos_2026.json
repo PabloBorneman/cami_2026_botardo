@@ -1435,7 +1435,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeqiCGMW1T5I2pDI9ImQ35fSakTUbiqxmIspPF_g0HJOvjYdQ/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774458578265_967bdba73048.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-25T12:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -2585,7 +2585,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdbTdJeiTG6M36DnEHpQ1snKLlt9UiGie3BDaup0rWWU4KtLw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774835401985_12aa429661ed.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-30T12:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -2840,7 +2840,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSflrEYSJoB8RjcDdvWYeTuTl7zGUYCJwNPBKhCz_rorWdPluw/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774835165210_81cd32b92e8c.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-30T12:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -3256,7 +3256,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScvOudKJ-dlIhId8PCmT4HqrKbmeuV6NJFOg8gWgA348k8rcg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774916354904_be35a11f98f9.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-30T22:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -3304,7 +3304,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSf2E4jhKcqEHi_1OkAIgG4V1TyxjEbGxV-woc4MtsgV5l2ItQ/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774932942054_1b64de25faee.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-30T22:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -3605,7 +3605,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdWRuAmEypVtFuRM1a2V-d3jCqrxDvoHWinmaiZ5s0bqG_bcg/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774932787090_728624d98671.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-30T22:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -3710,7 +3710,7 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfnmnHMEYQnCiZ-ruV_Ex45moqgYgmJ70gySCVx4P2uWqWvGA/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774932739224_d31e2b007642.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-30T22:00",
     "inscripcion_fin": "",
     "cupos": 25
@@ -3906,8 +3906,153 @@
     },
     "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSei3qkVGUU7z9ZlQFgOoHrwA-kk1NmEeFb05i2ENQCQ9R3X5g/viewform?usp=dialog",
     "imagen": "/uploads/cursos/curso_1774932664412_1f9934e4ff77.webp",
-    "estado": "inscripcion_abierta",
+    "estado": "cupo_completo",
     "inscripcion_inicio": "2026-03-30T22:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "1f2d12-c6e892",
+    "slug": "soldadura-basica-abra-pampa",
+    "titulo": "Soldadura Básica – Abra Pampa",
+    "descripcion_breve": "Normas de deguridad e higiene, tecnicas operativas de trabajo, requerimientos y calibracion maquinas, tipos de electrodos, tipos de soldadura y cordones, posiciines de soldar, medicio y corte, parctica de soldadura fabricando objetos diversos",
+    "descripcion_completa": "En el taller adquirirán habilidades de trazado y corte, forma correcta de hacer cordones de soldadura, posición al soldar,",
+    "actividades": "Practica de soldadura con materiales macizos de diferentes espesores, practicas de corte y union, preparación de material a soldar, reconocimiento de maquina y calibración de maquina de soldar",
+    "duracion_total": "8 semanas (8 encuentros)",
+    "fecha_inicio": "2026-04-11",
+    "fecha_inicio_legible": "11 de abril",
+    "fecha_fin": "2026-05-30",
+    "fecha_fin_legible": "30 de mayo",
+    "frecuencia_semanal": 1,
+    "duracion_clase_horas": [
+      4
+    ],
+    "dias_horarios": [
+      "Sábado de 8:00 a 12:00"
+    ],
+    "localidades": [
+      "Abra Pampa"
+    ],
+    "direcciones": [
+      "Calle casabindo s/n frente al salón de escuela n° 222"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuaderno lapicera"
+      ],
+      "entrega_curso": [
+        "Material bibliográfico en PDF"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSdR1uc4FSE8Gv8IdMYqyzb5Dck0i4w6An1v8XvxdBv8EooFEA/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1775003561597_0fc81331fa4b.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-31T22:00",
+    "inscripcion_fin": "",
+    "cupos": 15
+  },
+  {
+    "id": "3b1097-4696d3",
+    "slug": "masoterapia-y-deporte-con-impacto-social-libertador-gral-san-martin",
+    "titulo": "Masoterapia y Deporte con Impacto Social – Libertador Gral. San Martin",
+    "descripcion_breve": "Formación profesional intensiva,capaces de aplicar técnicas de masajes Terapéutico y deportivos, para mejorar el rendimiento y la recuperación física.",
+    "descripcion_completa": "El curso está orientado a personas interesadas en el cuidado del cuerpo y la salud física, como estudiantes,entrenadores,deportistas,preparadores físicos y quienes deseen iniciarse en el masaje Terapéutico y deportivos.Una salida laboral vinculada al bienestar y el acompañamiento en la actividad física.",
+    "actividades": "Aplicación de técnicas de Masoterapia, prácticas de palpación anatómica, evaluación básica del estado del músculo,maniobras de pre y post entrenamiento y simulación de casos reales en el ámbito deportivo. Anatomía y fisiología básica,sistema muscular, fundamentos de Masoterapia,tipos de masajes, técnicas manuales, prevención de lesiones y recuperación deportiva.",
+    "duracion_total": "3 Meses",
+    "fecha_inicio": "2026-04-06",
+    "fecha_inicio_legible": "6 de abril",
+    "fecha_fin": "2026-06-24",
+    "fecha_fin_legible": "24 de junio",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Lunes de 9:00 a 12:00",
+      "Miércoles de 9:00 a 12:00"
+    ],
+    "localidades": [
+      "Libertador Gral. San Martin"
+    ],
+    "direcciones": [
+      "se Informara"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuadernos",
+        "Lapiceras"
+      ],
+      "entrega_curso": [
+        "Material digital complementario"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSfqKYUIpuvLkDtSdITzi_0YYK8Gke-3u_S6ILXOD54orGwzSw/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1775003579556_4cccef76dc87.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-31T22:00",
+    "inscripcion_fin": "",
+    "cupos": 25
+  },
+  {
+    "id": "fd84d5-15faa0",
+    "slug": "masoterapia-y-deporte-con-impacto-social-fraile-pintado",
+    "titulo": "Masoterapia y Deporte con Impacto Social – Fraile Pintado",
+    "descripcion_breve": "Formación profesional intensiva,capaces de aplicar técnicas de masajes Terapéutico y deportivos, para mejorar el rendimiento y la recuperación física.",
+    "descripcion_completa": "El curso está orientado a personas interesadas en el cuidado del cuerpo y la salud física, como estudiantes,entrenadores,deportistas,preparadores físicos y quienes deseen iniciarse en el masaje Terapéutico y deportivos.Una salida laboral vinculada al bienestar y el acompañamiento en la actividad física.",
+    "actividades": "Aplicación de técnicas de Masoterapia, prácticas de palpación anatómica, evaluación básica del estado del músculo,maniobras de pre y post entrenamiento y simulación de casos reales en el ámbito deportivo. Anatomía y fisiología básica,sistema muscular, fundamentos de Masoterapia,tipos de masajes, técnicas manuales, prevención de lesiones y recuperación deportiva.",
+    "duracion_total": "3 MES",
+    "fecha_inicio": "2026-04-06",
+    "fecha_inicio_legible": "6 de abril",
+    "fecha_fin": "2026-06-24",
+    "fecha_fin_legible": "24 de junio",
+    "frecuencia_semanal": 2,
+    "duracion_clase_horas": [
+      3
+    ],
+    "dias_horarios": [
+      "Lunes de 13:30 a 16:30",
+      "Miércoles de 13:30 a 16:30"
+    ],
+    "localidades": [
+      "Fraile Pintado"
+    ],
+    "direcciones": [
+      "se Informara"
+    ],
+    "requisitos": {
+      "mayor_18": true,
+      "carnet_conducir": false,
+      "primaria_completa": false,
+      "secundaria_completa": false,
+      "otros": []
+    },
+    "materiales": {
+      "aporta_estudiante": [
+        "Cuadernos",
+        "Lapiceras"
+      ],
+      "entrega_curso": [
+        "Material digital complementario"
+      ]
+    },
+    "formulario": "https://docs.google.com/forms/d/e/1FAIpQLScs9ZM4ccKMC2CGB4zzAXbOOYRa682m6hrEty1G-6gEJdiEzg/viewform?usp=dialog",
+    "imagen": "/uploads/cursos/curso_1775003600561_743d8259c290.webp",
+    "estado": "inscripcion_abierta",
+    "inscripcion_inicio": "2026-03-31T22:00",
     "inscripcion_fin": "",
     "cupos": 25
   }
